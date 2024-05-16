@@ -26,6 +26,7 @@ Joonhyuk Park*, Yechan Hwang*, Minjeong Kim, Moo K. Chung, Guorong Wu, Won Hwa K
 Hyuna Cho, Injun Choi, Suha Kwak, Won Hwa Kim, “Interactive Network Perturbation between Teacher and Students for Semi-Supervised Semantic Segmentation”, Winter Conference on Applications of Computer Vision (WACV), 2024. [Accepted in the first round: 92/815 = ~11%]
 
 2023
+------
 Hyuna Cho, Minjae Jeong, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim, “Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion”, Neural Information Processing Systems (NeurIPS), 2023.
 
 Tingting Dan, Jiaqi Ding, Ziquan Wei, Shahar Z Kovalsky, Minjeong Kim, Won Hwa Kim, Guorong Wu, “Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals”, Neural Information Processing Systems (NeurIPS), 2023.
@@ -59,6 +60,7 @@ Huan Liu*, Tingting Dan*, Zhuobin Huang, Defu Yang, Won Hwa Kim, Minjeong Kim, P
 Seunghun Baek, Injun Choi, Mustafa Dere, Minjeong Kim, Guorong Wu, Won Hwa Kim, “Learning Covariance-based Multi-scale Representation of NeuroImaging Measures for Alzheimer Classification”,  IEEE International Symposium on Biomedical Imaging (ISBI), 2023.
 
 2022
+------
 Injun Choi, Guorong Wu, Won Hwa Kim, “How Much to Aggregate: Learning Adaptive Node-wise Scales on Graphs for Brain Networks”, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [Acceptance rate: 31%]
 
 Tingting Dan, Hongmin Cai, Zhuobin Huang, Paul Laurenti, Won Hwa Kim, Guorong Wu, “Neuro-RDM: An Explainable Neural Network Landscape of Reaction-Diffusion Model for Cognitive Task Recognition”, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022. [Acceptance rate: 31%]
@@ -74,6 +76,7 @@ Hyuna Cho, Gunwoong Park, Amal Isaiah, Won Hwa Kim, “Covariate Correcting Netw
 Fan Yang, Guorong Wu, Won Hwa Kim, “Disentangled Representation of Longitudinal β-Amyloid for AD via Sequential Graph Variational Autoencoder with Supervision”, IEEE International Symposium on Biomedical Imaging (ISBI), 2022.
 
 2021
+------
 Hyuna Cho, Gunwoong Park, Amal Isaiah, Won Hwa Kim, “Covariate Correcting Networks for Identifying Associations between Socioeconomic Factors and Brain Outcomes in Children”, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021.
 
 Fan Yang*, Rui Meng*, Hyuna Cho, Guorong Wu, Won Hwa Kim, “Disentangled Sequential Graph Autoencoder for Preclinical Alzheimer’s Disease Characterizations from ADNI study”, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021. [*: Equal contribution]
@@ -83,6 +86,7 @@ Xin Ma, Guorong Wu, Seongjae Hwang, Won Hwa Kim, “Learning Multi-resolution Gr
 Debapriya Banerjee, Maria Kyrarini, Won Hwa Kim, “Image-Label Recovery on Fashion Data Using Image Similarity from Triple Siamese Network ”, Technologies, 2021.
 
 2020
+------
 ByungOk Han, Woo-han Yun, Jang-hee Yoo, Won Hwa Kim, “Toward Unbiased Facial Expression Recognition in the Wild via Cross-dataset Adaptation”, IEEE Access, 2020.
 
 Gowtham Krishnan Murugesan, Chandan Ganesh, Sahil Nalawade, Elizabeth M. Davenport, Ben Wagner, Won Hwa Kim, Joseph A. Maldjian, “BrainNET: Inference of Brain Network Topology using Machine Learning”, Brain Connectivity, 2020.
@@ -106,6 +110,7 @@ Xin Ma, Guorong Wu, Won Hwa Kim, “Multi-resolution Graph Neural Network for De
 Anna Philips, Farah Naz, Kate Kyung Hyun, Vivek Patel, Gorden G. Zhang, Won Hwa Kim, “Social Media Text Analysis using Multi-kernel Convolution Neural Network for Ride Hailing Service Assessment”, Transportation Research Board (TRB) Annual Meeting, 2020.
 
 2019
+------
 Seongjae Hwang, Zirui Tao, Won Hwa Kim*, Vikas Singh*, “Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging” International Conference on Computer Vision (ICCV), 2019. (*: Senior authorship shared)
 
 Seongjae Hwang, Zirui Tao, Won Hwa Kim*, Vikas Singh*, “Statistical Analysis of Longitudinally and Conditionally Generated Neuroimaging Measures via Conditional Recurrent Flow”, Statistical Deep Learning in Computer Vision (ICCV Workshop), 2019. (*: Senior authorship shared)
@@ -117,6 +122,7 @@ Annie M. Racine, Andrew P. Merluzzi, Nagesh Adluru, Derek Norton, Rebecca L. Kos
 Seong Jae Hwang, Nagesh Adluru, Won Hwa Kim, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Associations between PET Amyloid Pathology and DTI Brain Connectivity in Preclinical Alzheimer’s Disease”, Brain Connectivity, 2019.
 
 2017
+------
 Won Hwa Kim, “A Multi-resolution Framework for Statistical Analysis of Neuroimaging Data” Doctoral Thesis, 2017.
 
 Won Hwa Kim, Seongjae Hwang, Nagesh Adluru, Sterling C. Johnson, Vikas Singh, ” Graph Completion: A Generalization of Netflix Prize Problem to Designing Cost Effective Neuroimaging Trials in Preclinical AD”, Alzheimer’s Association International Conference (AAIC), 2017.
@@ -124,6 +130,7 @@ Won Hwa Kim, Seongjae Hwang, Nagesh Adluru, Sterling C. Johnson, Vikas Singh, �
 Won Hwa Kim, Mona Jalal, Seongjae Hwang, Sterling C. Johnson, Vikas Singh, “Online Graph Completion: Multivariate Signal Recovery in Computer Vision”, Computer Vision and Pattern Recognition (CVPR), 2017.
 
 2016
+------
 Won Hwa Kim, Seong Jae Hwang, Nagesh Adluru, Sterling C. Johnson, Vikas Singh, “Adaptive Signal Recovery on Graphs via Harmonic Analysis for Experimental Design in Neuroimaging”, European Conference on Computer Vision (ECCV), 2016.
 
 Seong Jae Hwang, Won Hwa Kim, Barbara B. Bendlin, Nagesh Adluru, Vikas Singh, “Multi-Resolution Analysis of DTI-Derived Brain Connectivity and the Influence of PET-Derived Alzheimer’s Disease Pathology in a Preclinical Cohort”, Alzheimer’s Association International Conference (AAIC), 2016.
@@ -132,6 +139,7 @@ Won Hwa Kim*, Hyunwoo J. Kim*, Nagesh Adluru, Vikas Singh, “Latent Variable Gr
 *: First authorship shared.
 
 2015
+------
 Won Hwa Kim, Sathya Ravi, Sterling C. Johnson, Ozioma Okonkwo, Vikas Singh, “On Statistical Analysis of Neuroimages with Imperfect Registration”, International Conference on Computer Vision (ICCV), 2015.
 
 Won Hwa Kim, Nagesh Adluru, Moo K. Chung, Ozioma C. Okonkwo, Sterling C. Johnson, Barbara B. Bedlin, Vikas Singh, “Multi-resolution Statistical Analysis of Brain Connectivity Graphs in Preclinical Alzheimer’s Disease”, NeuroImage, 2015.
@@ -143,22 +151,25 @@ Won Hwa Kim, Barbara B. Bendlin, Moo K. Chung, Sterling C. Johnson, Vikas Singh,
 Won Hwa Kim, Vikas Singh, Moo K. Chung, Nagesh Adluru, Barbara B. Bendlin, Sterling C. Johnson, “Multi-resolution statistical analysis on graph structured data in Neuroimaging”, International Symposium on Biomedical Imaging (ISBI), 2015 (Invited paper / Oral presentation)
 
 2014
+------
 Won Hwa Kim, Vikas Singh, Moo K. Chung, Chris Hinrichs, Deepti Pachauri, Ozioma C. Okonkwo, Sterling C. Johnson, “Multi-resolutional Shape Features via non-Euclidean Wavelets: Applications to Statistical Analysis of Cortical Thickness”, NeuroImage, 2014.
 
 A. Pasha Hosseinbor, Won Hwa Kim, Nagesh Adluru, Amit Acharya, Houri K. Vorperian, Moo. K. Chung, “The 4D Hyperspherical Diffusion Wavelet: a New Method for the Detection of Localized Anatomical Variation”, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2014.
 
 2013
+------
 Won Hwa Kim, Nagesh Adluru, Moo K. Chung, Sylvia Charchut, Johnson J. GadElkarim, Lori Altshuler, Teena Moody, Anand Kumar, Vikas Singh, and Alex D. Leow, “Multi-resolutional Brain Network Filtering and Analysis via Wavelets on Non-Euclidean Space”, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2013.
 
 Won Hwa Kim, Moo K. Chung, Vikas Singh, “Multi-resolution Shape Analysis via Non-Euclidean Wavelets: Applications to Mesh Segmentation and Surface Alignment Problems”, Computer Vision and Pattern Recognition (CVPR), 2013.
 
 2012
+------
 Won Hwa Kim, Deepti Pachauri, Charles Hatt, Moo K. Chung, Sterling C. Johnson, Vikas Singh, “Wavelet Based Multi-scale Shape Features on Arbitrary Surfaces for Cortical Thickness Discrimination”, Advances in Neural Information Processing Systems (NIPS), 2012.
 
-2010
+2010 and before
+------
 Won Hwa Kim, Jeong Woo Park, Woo Hyun Kim, Wong Hyong Lee, Myung Jin Chung, “Proposal of 2D Mood Model for Human-like Behaviors of Robot”, The Journal of Korea Robotics Society, 2010.
 
-2009
 Won Hwa Kim, Jeong Woo Park, Won Hyong Lee, Woo Hyun Kim, Myung Jin Chung, ” Stochastic Approach on a Simplified OCC Model for Uncertainty and Believability”, International Conference on Computational Intelligence in Robotics and Automation (CIRA), 2009. 
 
 Jeongwoo Park, Won Hwa Kim, Wong Hyong Lee, Myung Jin Chung, “A Robot Simulator’FRESi’for Dynamic Facial Expression”, International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2009.
@@ -168,6 +179,7 @@ Jeongwoo Park, Woo Hyun Kim, Wong Hyong Lee, Won Hwa Kim, Myung Jin Chung, “Li
 Woo Hyun Kim, Jeongwoo Park, Wong Hyong Lee, Won Hwa Kim, Myung Jin Chung, “Synchronized Multimodal Expression Generation using Editing Toolkit for a Human-friendly robot”, Robotics and Biomimetics (ROBIO), 2009.
 
 Publication (Domestic)
+=====
 
 Yujee Song, Donghyun Lee, Rui Meng, Won Hwa Kim, “Explainable and Continuous Time Modeling of Marked Temporal Point Process”, Workshop on Image Processing and Image Understanding (IPIU), 2024.
 
