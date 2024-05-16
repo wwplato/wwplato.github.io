@@ -10,27 +10,24 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+-----
+* Ph.D in Computer Science, University of Wisconsin - Madison, 2017
+* M.S. in Rotobics, KAIST, 2010
+* B.S. in Electrical Engineering, Sungkyunkwan University, 2008
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Professional Experience
+-----
+* Associate Professor, POSTECH, South Korea, 2023 - 
+* Assistant Professor, POSTECH, South Korea, 2020 - 2023
+  * Graduate School of Artificial Intelligence (GSAI)
+  * Computer Science and Engineering (CSE)
+  * Medical Science and Engineering (MSE)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assistant Professor, University of Texas at Arlington, TX, U.S.A.,  2018 - 2023
+  * Computer Science and Engineering
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher, NEC Labs., America, NJ, U.S.A., 2017 - 2018
+  * Data Science Team
   
 Skills
 ======
