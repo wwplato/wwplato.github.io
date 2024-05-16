@@ -178,7 +178,7 @@ Jeongwoo Park, Woo Hyun Kim, Wong Hyong Lee, Won Hwa Kim, Myung Jin Chung, “Li
 
 Woo Hyun Kim, Jeongwoo Park, Wong Hyong Lee, Won Hwa Kim, Myung Jin Chung, “Synchronized Multimodal Expression Generation using Editing Toolkit for a Human-friendly robot”, Robotics and Biomimetics (ROBIO), 2009.
 
-Publication (Domestic)
+Publications (Domestic)
 =====
 
 Yujee Song, Donghyun Lee, Rui Meng, Won Hwa Kim, “Explainable and Continuous Time Modeling of Marked Temporal Point Process”, Workshop on Image Processing and Image Understanding (IPIU), 2024.
