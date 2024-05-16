@@ -27,8 +27,8 @@ author:
   bio              : "Associate Professor"
   #location         : "Graduate School of AI / Computer Science and Engineering"
   employer         : "POSTECH"
-  location         : "Graduate School of AI"
-  location         : "Computer Science and Engineering"
+  #location         : "Graduate School of AI"
+  #location         : "Computer Science and Engineering"
   #location         : "Graduate School of AI / Computer Science and Engineering"
   #uri              : # URL
   #email            : "none@example.org" 
