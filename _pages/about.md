@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Won Hwa Kim"
+#title: "Won Hwa Kim"
 author_profile: true
 redirect_from: 
   - /about/
