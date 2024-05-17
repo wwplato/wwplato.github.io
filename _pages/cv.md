@@ -49,6 +49,11 @@ Honors
 * Third Place in 12th Grade, Utah Math Contest, 2001
 
 
+Service
+-----
+* Editor, ICT Express
+* I routinly serve as a reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and others.
+
 Teaching
 -----
 * Signal Processing (CSED490F), Deep Learning (CSED/AIGS538), Data Mining (CSED/AIGS526)
