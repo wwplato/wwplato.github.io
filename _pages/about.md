@@ -2,6 +2,7 @@
 permalink: /
 #title: "Won Hwa Kim"
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
