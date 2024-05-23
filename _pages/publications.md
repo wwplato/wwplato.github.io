@@ -8,9 +8,9 @@ author_profile: true
 2024
 ------
 
-Tingting Dan, Mustafa Dere, **Won Hwa Kim**, Minjeong Kim, Guorong Wu, “TauFlowNet: Revealing latent propagation mechanism of tau aggregates using deep neural transport equations”, **Medical Image Analysis (MedIA)**, 2024.
+Tingting Dan, Mustafa Dere, **Won Hwa Kim**, Minjeong Kim, Guorong Wu, “TauFlowNet: Revealing latent propagation mechanism of tau aggregates using deep neural transport equations”, *Medical Image Analysis* (**MedIA**), 2024.
 
-Hyuna Cho, Jaeyoon Sim, Guorong Wu, **Won Hwa Kim**, “Neurodegenerative Brain Network Classification via Adaptive Diffusion with Temporal Regularization”, **International Conference on Machine Learning* (**ICML**), 2024.
+Hyuna Cho, Jaeyoon Sim, Guorong Wu, **Won Hwa Kim**, “Neurodegenerative Brain Network Classification via Adaptive Diffusion with Temporal Regularization”, *International Conference on Machine Learning* (**ICML**), 2024.
 
 Tingting Dan, Ziquan Wei, **Won Hwa Kim**, Guorong Wu, “Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold”, *International Conference on Machine Learning* (**ICML**), 2024.
 
