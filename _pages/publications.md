@@ -102,11 +102,11 @@ Feng Tong\*, Muhammad Shahid, Peng Jin, Sungyong Jung, **Won Hwa Kim**, Jayoung 
 
 Jayoung Kim, Peng Jin, **Won Hwa Kim**, Wun-Jae Kim “Utilizing Machine Learning to Discern Hidden Clinical Values from Big Data in Urology”, *Investigative and Clinical Urology*, 2020.
 
-Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Identifying Disease-specific Variations in Brain Connectivity”,  Annual Meeting of the Organization for Human Brain Mapping (**OHBM**) , 2020.
+Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Identifying Disease-specific Variations in Brain Connectivity”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
 
-Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Detecting Variations in Brain Connectivity”,  Annual Meeting of the Organization for Human Brain Mapping (**OHBM**) , 2020.
+Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Detecting Variations in Brain Connectivity”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
 
-Xin Ma, Guorong Wu, **Won Hwa Kim**, “Enriching Statistical Inferences on Brain Connectivity for Alzheimer’s Disease Analysis via Latent Space Graph Embedding”, IEEE International Symposium on Biomedical Imaging (**ISBI**), 2020. [**Accepted for Oral Presentation**]
+Xin Ma, Guorong Wu, **Won Hwa Kim**, “Enriching Statistical Inferences on Brain Connectivity for Alzheimer’s Disease Analysis via Latent Space Graph Embedding”, *IEEE International Symposium on Biomedical Imaging* (**ISBI**), 2020. [**Accepted for Oral Presentation**]
 
 Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Detecting Variations in Brain Connectivity”, *Interaction of Geometry and Topology in Biomedical Imaging* (ISBI Workshop), 2020.
 
@@ -114,7 +114,7 @@ Anna Philips, Farah Naz, Kate Kyung Hyun, Vivek Patel, Gorden G. Zhang, **Won Hw
 
 2019
 ------
-Seongjae Hwang, Zirui Tao, **Won Hwa Kim**\*, Vikas Singh\*, “Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging” International Conference on Computer Vision (**ICCV**), 2019. [\*: Senior authorship shared]
+Seongjae Hwang, Zirui Tao, **Won Hwa Kim**\*, Vikas Singh\*, “Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging” *International Conference on Computer Vision* (**ICCV**), 2019. [\*: Senior authorship shared]
 
 Seongjae Hwang, Zirui Tao, **Won Hwa Kim**\*, Vikas Singh\*, “Statistical Analysis of Longitudinally and Conditionally Generated Neuroimaging Measures via Conditional Recurrent Flow”, *Statistical Deep Learning in Computer Vision* (ICCV Workshop), 2019. [\*: Senior authorship shared]
 
@@ -126,7 +126,7 @@ Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B.
 
 2017
 ------
-**Won Hwa Kim**, “A Multi-resolution Framework for Statistical Analysis of Neuroimaging Data” Doctoral Thesis, 2017.
+**Won Hwa Kim**, “A Multi-resolution Framework for Statistical Analysis of Neuroimaging Data”, *Doctoral Thesis*, 2017.
 
 **Won Hwa Kim**, Seongjae Hwang, Nagesh Adluru, Sterling C. Johnson, Vikas Singh, ” Graph Completion: A Generalization of Netflix Prize Problem to Designing Cost Effective Neuroimaging Trials in Preclinical AD”, *Alzheimer’s Association International Conference* (**AAIC**), 2017.
 
@@ -138,12 +138,12 @@ Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B.
 
 Seong Jae Hwang, **Won Hwa Kim**, Barbara B. Bendlin, Nagesh Adluru, Vikas Singh, “Multi-Resolution Analysis of DTI-Derived Brain Connectivity and the Influence of PET-Derived Alzheimer’s Disease Pathology in a Preclinical Cohort”, *Alzheimer’s Association International Conference* (**AAIC**), 2016.
 
-**Won Hwa Kim**\*, Hyunwoo J. Kim\*, Nagesh Adluru, Vikas Singh, “Latent Variable Graphical Model Selection using Harmonic Analysis: Applications to the Human Connectome Project (HCP)”, *Computer Vision and Pattern Recognition* (**CVPR**), 2016. [\*: First authorship share, **Spotlight / Acceptance rate: 9.7%**]
+**Won Hwa Kim**\*, Hyunwoo J. Kim\*, Nagesh Adluru, Vikas Singh, “Latent Variable Graphical Model Selection using Harmonic Analysis: Applications to the Human Connectome Project (HCP)”, *Computer Vision and Pattern Recognition* (**CVPR**), 2016. [\*: First authorship share, **Spotlight / top 9.7%**]
 *: First authorship shared.
 
 2015
 ------
-**Won Hwa Kim**, Sathya Ravi, Sterling C. Johnson, Ozioma Okonkwo, Vikas Singh, “On Statistical Analysis of NeuroImages with Imperfect Registration”, International Conference on Computer Vision (**ICCV**), 2015.
+**Won Hwa Kim**, Sathya Ravi, Sterling C. Johnson, Ozioma Okonkwo, Vikas Singh, “On Statistical Analysis of NeuroImages with Imperfect Registration”, *International Conference on Computer Vision* (**ICCV**), 2015.
 
 **Won Hwa Kim**, Nagesh Adluru, Moo K. Chung, Ozioma C. Okonkwo, Sterling C. Johnson, Barbara B. Bedlin, Vikas Singh, “Multi-resolution Statistical Analysis of Brain Connectivity Graphs in Preclinical Alzheimer’s Disease”, ___NeuroImage___, 2015.
 
