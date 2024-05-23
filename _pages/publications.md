@@ -26,7 +26,7 @@ Hyuna Cho, Yubin Han, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Netw
 
 Joonhyuk Park\*, Yechan Hwang\*, Minjeong Kim, Moo K. Chung, Guorong Wu, **Won Hwa Kim**, “Brain Connectome Analysis for Alzheimer’s Disease using Hodge Laplacian-based Edge Convolution”, Annual Meeting of the Organization for Human Brain Mapping (**OHBM**) [\*: equal contribution]
 
-Hyuna Cho, Injun Choi, Suha Kwak, **Won Hwa Kim**, “Interactive Network Perturbation between Teacher and Students for Semi-Supervised Semantic Segmentation”, Winter Conference on Applications of Computer Vision (WACV), 2024. [Accepted in the first round: 92/815 = ~11%]
+Hyuna Cho, Injun Choi, Suha Kwak, **Won Hwa Kim**, “Interactive Network Perturbation between Teacher and Students for Semi-Supervised Semantic Segmentation”, *Winter Conference on Applications of Computer Vision* (**WACV**), 2024. [Accepted in the first round: 92/815 = ~11%]
 
 2023
 ------
@@ -34,13 +34,13 @@ Hyuna Cho, Minjae Jeong, Sooyeon Jeon, Sungsoo Ahn, **Won Hwa Kim**, “Multi-re
 
 Tingting Dan, Jiaqi Ding, Ziquan Wei, Shahar Z Kovalsky, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals”, Neural Information Processing Systems (**NeurIPS**), 2023.
 
-Tingting Dan, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Developing Explainable Deep Model for Discovering Novel Control Mechanism of Neuro-Dynamics”, IEEE Transactions on Medical Imaging (**TMI**), 2023.
+Tingting Dan, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Developing Explainable Deep Model for Discovering Novel Control Mechanism of Neuro-Dynamics”, *IEEE Transactions on Medical Imaging* (**TMI**), 2023.
 
 Hyuna Cho, Guorong Wu, **Won Hwa Kim**, “Mixing Temporal Graphs with MLP for Longitudinal Brain Connectome Analysis”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. [**Oral Presentation: 68/2250 = ~3%**]
 
 Hyuna Cho, Yubin Han, **Won Hwa Kim**, “Anti-Adversarial Consistency Regularization for Data Augmentation: Applications to Robust Medical Image Segmentation”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. [**Provisional Accept: ~14%**]
 
-Joonhyuk Park*, Yechan Hwang*, Minjeong Kim, Moo K. Chung, Guorong Wu, **Won Hwa Kim**, “Convolving Directed Graph Edges via Hodge Laplacian for Brain Network Analysis”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. [**Provisional Accept: ~14%**] [*: equal contribution]
+Joonhyuk Park\*, Yechan Hwang\*, Minjeong Kim, Moo K. Chung, Guorong Wu, **Won Hwa Kim**, “Convolving Directed Graph Edges via Hodge Laplacian for Brain Network Analysis”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023. [**Provisional Accept: ~14%**, \*: equal contribution]
 
 Ellen Jieun Oh, Yechan Hwang, Yubin Han, Taegeun Choi, Geunyoung Lee, **Won Hwa Kim**, “RESToring Clarity: Unpaired Retina Image Enhancement using Scattering Transform”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023.
 
@@ -60,7 +60,7 @@ Deunsol Jung, Sanghyun Kim, **Won Hwa Kim**, Minsu Cho, “Devil’s on the Edge
 
 Huan Liu*, Tingting Dan*, Zhuobin Huang, Defu Yang, **Won Hwa Kim**, Minjeong Kim, Paul Laurienti, Guorong Wu, “HoloBrain: A Harmonic Holography for Self-organized Brain Function”,  Information Processing in Medical Imaging (IPMI), 2023. [*: equal contribution]
 
-Seunghun Baek, Injun Choi, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Learning Covariance-based Multi-scale Representation of NeuroImaging Measures for Alzheimer Classification”,  IEEE International Symposium on Biomedical Imaging (**ISBI**), 2023.
+Seunghun Baek, Injun Choi, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Learning Covariance-based Multi-scale Representation of NeuroImaging Measures for Alzheimer Classification”, *IEEE International Symposium on Biomedical Imaging* (**ISBI**), 2023.
 
 2022
 ------
@@ -68,15 +68,15 @@ Injun Choi, Guorong Wu, **Won Hwa Kim**, “How Much to Aggregate: Learning Adap
 
 Tingting Dan, Hongmin Cai, Zhuobin Huang, Paul Laurenti, **Won Hwa Kim**, Guorong Wu, “Neuro-RDM: An Explainable Neural Network Landscape of Reaction-Diffusion Model for Cognitive Task Recognition”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. [Acceptance rate: 31%]
 
-Gangin Park, Chunsan Hong, Bohyung Kim, **Won Hwa Kim**, “What Do Untargeted Adversarial Examples Reveal in Medical Image Segmentation?”, Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE), 2022.
+Gangin Park, Chunsan Hong, Bohyung Kim, **Won Hwa Kim**, “What Do Untargeted Adversarial Examples Reveal in Medical Image Segmentation?”, *Uncertainty for Safe Utilization of Machine Learning in Medical Imaging* (UNSURE), 2022.
 
-Xin Ma, **Won Hwa Kim**, “Locally Normalized Soft Contrastive Clustering for Compact Clusters”, International Joint Conference on Artificial Intelligence (IJCAI), 2022. [Acceptance rate: 15%]
+Xin Ma, **Won Hwa Kim**, “Locally Normalized Soft Contrastive Clustering for Compact Clusters”, *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2022. [Acceptance rate: 15%]
 
-Hyuna Cho*, Feng Tong, Sungyong You, Sungyoung Jung, **Won Hwa Kim**, Jayoung Kim, “Prediction of the Immune Phenotypes of Bladder Cancer Patients for Precision Oncology”, IEEE Open Journal of Engineering in Medicine and Biology, 2022 [*: Hyuna advised by WHKim]
+Hyuna Cho\*, Feng Tong, Sungyong You, Sungyoung Jung, **Won Hwa Kim**, Jayoung Kim, “Prediction of the Immune Phenotypes of Bladder Cancer Patients for Precision Oncology”, ___IEEE Open Journal of Engineering in Medicine and Biology___, 2022 [\*: Hyuna advised by WHKim]
 
-Hyuna Cho, Gunwoong Park, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Network for Detecting Sole Effect of Socioeconomic Status on Brain in Children”, Annual Meeting of the Organization for Human Brain Mapping (**OHBM**), 2022.
+Hyuna Cho, Gunwoong Park, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Network for Detecting Sole Effect of Socioeconomic Status on Brain in Children”, *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**), 2022.
 
-Fan Yang, Guorong Wu, **Won Hwa Kim**, “Disentangled Representation of Longitudinal β-Amyloid for AD via Sequential Graph Variational Autoencoder with Supervision”, IEEE International Symposium on Biomedical Imaging (**ISBI**), 2022.
+Fan Yang, Guorong Wu, **Won Hwa Kim**, “Disentangled Representation of Longitudinal β-Amyloid for AD via Sequential Graph Variational Autoencoder with Supervision”, *IEEE International Symposium on Biomedical Imaging* (**ISBI**), 2022.
 
 2021
 ------
