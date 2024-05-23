@@ -16,7 +16,7 @@ Tingting Dan, Ziquan Wei, **Won Hwa Kim**, Guorong Wu, “Exploring the Enigma o
 
 Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Modality-Agnostic Style Transfer for Holistic Feature Imputation”, **International Symposium on Biomedical Imaging* (**ISBI**), 2024. [**Oral presentation**, *: equal contribution]
 
-Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations”, International Conference on Learning Representations (**ICLR**), 2024.
+Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations”, *International Conference on Learning Representations* (**ICLR**), 2024.
 
 Inhyuk Park, **Won Hwa Kim**, Jongbin Ryu, “Style-KD: Class-imbalanced medical image classification via style knowledge distillation”, ___Biomedical Signal Processing and Control___, 2024. [Impact factor: 5.1]
 
@@ -30,9 +30,9 @@ Hyuna Cho, Injun Choi, Suha Kwak, **Won Hwa Kim**, “Interactive Network Pertur
 
 2023
 ------
-Hyuna Cho, Minjae Jeong, Sooyeon Jeon, Sungsoo Ahn, **Won Hwa Kim**, “Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion”, Neural Information Processing Systems (**NeurIPS**), 2023.
+Hyuna Cho, Minjae Jeong, Sooyeon Jeon, Sungsoo Ahn, **Won Hwa Kim**, “Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion”, *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2023.
 
-Tingting Dan, Jiaqi Ding, Ziquan Wei, Shahar Z Kovalsky, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals”, Neural Information Processing Systems (**NeurIPS**), 2023.
+Tingting Dan, Jiaqi Ding, Ziquan Wei, Shahar Z Kovalsky, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals”, *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2023.
 
 Tingting Dan, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Developing Explainable Deep Model for Discovering Novel Control Mechanism of Neuro-Dynamics”, *IEEE Transactions on Medical Imaging* (**TMI**), 2023.
 
@@ -90,15 +90,15 @@ Debapriya Banerjee, Maria Kyrarini, **Won Hwa Kim**, “Image-Label Recovery on 
 
 2020
 ------
-ByungOk Han, Woo-han Yun, Jang-hee Yoo, **Won Hwa Kim**, “Toward Unbiased Facial Expression Recognition in the Wild via Cross-dataset Adaptation”, IEEE Access, 2020.
+ByungOk Han, Woo-han Yun, Jang-hee Yoo, **Won Hwa Kim**, “Toward Unbiased Facial Expression Recognition in the Wild via Cross-dataset Adaptation”, *IEEE Access*, 2020.
 
-Gowtham Krishnan Murugesan, Chandan Ganesh, Sahil Nalawade, Elizabeth M. Davenport, Ben Wagner, **Won Hwa Kim**, Joseph A. Maldjian, “BrainNET: Inference of Brain Network Topology using Machine Learning”, Brain Connectivity, 2020.
+Gowtham Krishnan Murugesan, Chandan Ganesh, Sahil Nalawade, Elizabeth M. Davenport, Ben Wagner, **Won Hwa Kim**, Joseph A. Maldjian, “BrainNET: Inference of Brain Network Topology using Machine Learning”, ___Brain Connectivity___, 2020.
 
 Tuan Q. Dinh, Yunyang Xiongy, Zhichun Huangy, Tien Voy, Akshay Mishray, **Won Hwa Kim**, Sathya N. Ravi, Vikas Singh, “Performing Group Difference Testing on Graph Structured Data from GANs: Analysis and Applications in Neuroimaging”, *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2020.
 
 Fan Yang, Amal Isaiah, **Won Hwa Kim**, “COVLET: Covariance-based Wavelet-like Transform for Statistical Analysis of Brain Characteristics in Children”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2020.
 
-Feng Tong*, Muhammad Shahid, Peng Jin, Sungyong Jung, **Won Hwa Kim**, Jayoung Kim “Classification of the Urinary Metabolome using Machine Learning and Potential Applications to Diagnosing Interstitial Cystitis”, Bladder, 2020. [*: Feng advised by WHKim]
+Feng Tong\*, Muhammad Shahid, Peng Jin, Sungyong Jung, **Won Hwa Kim**, Jayoung Kim “Classification of the Urinary Metabolome using Machine Learning and Potential Applications to Diagnosing Interstitial Cystitis”, *Bladder*, 2020. [\*: Feng advised by WHKim]
 
 Jayoung Kim, Peng Jin, **Won Hwa Kim**, Wun-Jae Kim “Utilizing Machine Learning to Discern Hidden Clinical Values from Big Data in Urology”, *Investigative and Clinical Urology*, 2020.
 
