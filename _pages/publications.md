@@ -14,7 +14,7 @@ Hyuna Cho, Jaeyoon Sim, Guorong Wu, **Won Hwa Kim**, “Neurodegenerative Brain 
 
 Tingting Dan, Ziquan Wei, **Won Hwa Kim**, Guorong Wu, “Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold”, *International Conference on Machine Learning* (**ICML**), 2024.
 
-Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Modality-Agnostic Style Transfer for Holistic Feature Imputation”, **International Symposium on Biomedical Imaging* (**ISBI**), 2024. [**Oral presentation**, *: equal contribution]
+Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Modality-Agnostic Style Transfer for Holistic Feature Imputation”, *International Symposium on Biomedical Imaging* (**ISBI**), 2024. [**Oral presentation**, *: equal contribution]
 
 Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations”, *International Conference on Learning Representations* (**ICLR**), 2024.
 
@@ -50,15 +50,15 @@ Tingting Dan, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “TauFlowNet: Uncoveri
 
 Tingting Dan, Minjeong Kim, **Won Hwa Kim**, Guorong Wu, “Uncovering Structural-Functional Coupling Alterations for Neurodegenerative Diseases”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2023.
 
-Jinhyeok Jang, Woo-han Yun, **Won Hwa Kim**, Youngwoo Yoon, Jaehong Kim, Jaeyeon Lee, ByungOk Han, “Learning to Boost Training by Periodic Nowcasting Near Future Weights”, International Conference on Machine Learning (**ICML**), 2023.
+Jinhyeok Jang, Woo-han Yun, **Won Hwa Kim**, Youngwoo Yoon, Jaehong Kim, Jaeyeon Lee, ByungOk Han, “Learning to Boost Training by Periodic Nowcasting Near Future Weights”, *International Conference on Machine Learning* (**ICML**), 2023.
 
 Rui Meng, Fan Yang, **Won Hwa Kim**, “Dynamic Covariance Estimation via Predictive Wishart Process with an Application on Brain Connectivity Estimation”, *Computational Statistics & Data Analysis* (**CSDA**), 2023.
 
-Hyuna Cho, Guorong Wu, **Won Hwa Kim**, “Spatio-Temporal Multi-Layer Perceptron for Longitudinal Brain Connectome Analysis”, Annual Meeting of the Organization for Human Brain Mapping (**OHBM**) , 2023.
+Hyuna Cho, Guorong Wu, **Won Hwa Kim**, “Spatio-Temporal Multi-Layer Perceptron for Longitudinal Brain Connectome Analysis”, *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2023.
 
 Deunsol Jung, Sanghyun Kim, **Won Hwa Kim**, Minsu Cho, “Devil’s on the Edges: Selective Quad Attention for Scene Graph Generation”, *Computer Vision and Pattern Recognition* (**CVPR**), 2023.
 
-Huan Liu*, Tingting Dan*, Zhuobin Huang, Defu Yang, **Won Hwa Kim**, Minjeong Kim, Paul Laurienti, Guorong Wu, “HoloBrain: A Harmonic Holography for Self-organized Brain Function”,  Information Processing in Medical Imaging (IPMI), 2023. [*: equal contribution]
+Huan Liu*, Tingting Dan*, Zhuobin Huang, Defu Yang, **Won Hwa Kim**, Minjeong Kim, Paul Laurienti, Guorong Wu, “HoloBrain: A Harmonic Holography for Self-organized Brain Function”,  *Information Processing in Medical Imaging* (**IPMI**), 2023. [*: equal contribution]
 
 Seunghun Baek, Injun Choi, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Learning Covariance-based Multi-scale Representation of NeuroImaging Measures for Alzheimer Classification”, *IEEE International Symposium on Biomedical Imaging* (**ISBI**), 2023.
 
@@ -72,7 +72,7 @@ Gangin Park, Chunsan Hong, Bohyung Kim, **Won Hwa Kim**, “What Do Untargeted A
 
 Xin Ma, **Won Hwa Kim**, “Locally Normalized Soft Contrastive Clustering for Compact Clusters”, *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2022. [Acceptance rate: 15%]
 
-Hyuna Cho\*, Feng Tong, Sungyong You, Sungyoung Jung, **Won Hwa Kim**, Jayoung Kim, “Prediction of the Immune Phenotypes of Bladder Cancer Patients for Precision Oncology”, ___IEEE Open Journal of Engineering in Medicine and Biology___, 2022 [\*: Hyuna advised by WHKim]
+Hyuna Cho\*, Feng Tong, Sungyong You, Sungyoung Jung, **Won Hwa Kim**, Jayoung Kim, “Prediction of the Immune Phenotypes of Bladder Cancer Patients for Precision Oncology”, *IEEE Open Journal of Engineering in Medicine and Biology* (**OJEMB**), 2022 [\*: Hyuna advised by WHKim]
 
 Hyuna Cho, Gunwoong Park, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Network for Detecting Sole Effect of Socioeconomic Status on Brain in Children”, *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**), 2022.
 
