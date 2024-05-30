@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Students
------
+----
 Hyuna Cho (MS/PhD@GSAI)
 Seunghun Baek (MS/PhD@GSAI)
 Jaeyoon Sim (MS/PhD@GSAI)
@@ -28,11 +28,11 @@ Soojin Hwang (MS@GSAI, joint program with KT)
 
 
 Alumni
------
-Xin Ma (PhD@UTA, 2024) - Senior Researcher at Sam's Club Research
-Ellen Jieun Oh (MS@POSTECH, 2023) – Researcher at LG CTO
-Injun Choi (MS@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
-Fan Yang (PhD@UTA, 2022) – Researcher at GenenTech
-Vivek Patel (Undergraduate@UTA with Honors College, 2020) – Software Developer at US Bank
-Debapriya Benergee (MS@UTA, 2020) – Data Scientist at Master Card
-Anna Philips (MS@UTA, 2019) – Software Engineer at Amazon (previously Software Developter at MatMaCorp)
+----
+* Xin Ma (PhD@UTA, 2024) - Senior Researcher at Sam's Club Research
+* Ellen Jieun Oh (MS@POSTECH, 2023) – Researcher at LG CTO
+* Injun Choi (MS@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
+* Fan Yang (PhD@UTA, 2022) – Researcher at GenenTech
+* Vivek Patel (Undergraduate@UTA with Honors College, 2020) – Software Developer at US Bank
+* Debapriya Benergee (MS@UTA, 2020) – Data Scientist at Master Card
+* Anna Philips (MS@UTA, 2019) – Software Engineer at Amazon (previously Software Developter at MatMaCorp)
