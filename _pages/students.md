@@ -19,9 +19,9 @@ author_profile: true
 * Minjae Lee (MS/PHD@CSE)
 * Donghyun Lee (MS@GSAI)
 * Sungyoon Jung (MS@CSE)
-* Hayoung Ahn (MS@GSAI)
 * Seungjoo Lee (MS@CSE)
-* Soojin Hwang (MS@GSAI, joint program with KT)
+* Hayoung Ahn (MS@GSAI, joint program with KT)
+* Soojin Hwang (MS@GSAI)
 
 
 
