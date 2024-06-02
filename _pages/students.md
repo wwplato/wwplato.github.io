@@ -5,8 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-Students
-----
 * Hyuna Cho (MS/PhD@GSAI)
 * Seunghun Baek (MS/PhD@GSAI)
 * Jaeyoon Sim (MS/PhD@GSAI)

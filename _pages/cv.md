@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Curriculum Vitae: [link](../files/cv_wonhwa_202404.pdf "CV").
+-----
 
 Education
 -----
@@ -52,7 +55,7 @@ Honors
 Service
 -----
 * Editor, ICT Express
-* I routinly serve as a reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and others.
+* I routinely serve as a reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and others.
 
 Teaching
 -----
