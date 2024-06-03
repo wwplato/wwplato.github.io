@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Graduate School of Artificial Intelligence (GSAI) / Computer Science and Engineering (CSE) / Medical Science and Engineering (MSE) at Pohang University of Science and Technology (POSTECH) and I run Medical Information Processing (MIP) Lab at POSTECH. 
+I am an Associate Professor in Graduate School of Artificial Intelligence (GSAI) / Computer Science and Engineering (CSE) / Medical Science and Engineering (MED) at Pohang University of Science and Technology (POSTECH) and I run Medical Information Processing (MIP) Lab at POSTECH. 
 My research is focused on interdisciplinary topics in Machine Learning, Computer Vision and Medical Imaging. I am particularily interested in applied harmonic analysis in non-Euclidean spaces (e.g., signal processing on graphs) and stochastic process (e.g., longitudinal analysis) to develop efficient Deep Learning frameworks to facilitate understanding of neurodegenerative disorders such as Alzheimer’s Disease (AD) and brain function.
 
 
 Contact
 -----
-Email: wonhwa@postech.ac.kr
-Office: #4412, RIST Research Building IV, 67 Cheongam-Ro, Nam-Gu, Pohang, Gyeongsangbuk-do, Korea
+* Email: wonhwa at postech dot ac dot kr
+* Office: #4412, RIST Research Building IV, 67 Cheongam-Ro, Nam-Gu, Pohang, Gyeongsangbuk-do, Korea
+
+
+Notes for Prospective Students
+-----
+I am always looking for highly **self-motivated** students with long term goals, and I usually take 1-2 students per semester. I can freely hire students from both Graduate School of Artificial Intelligence (GSAI) and Computer Science and Engineering (CSE). Hiring students from Medical Science and Engineering (MED) will depend on the funding situation.  
 
 
 Recent News
