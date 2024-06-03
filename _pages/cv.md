@@ -32,6 +32,8 @@ Professional Experience
   * Computer Science and Engineering (CSE)
   * Medical Science and Engineering (MSE)
 
+* Visiting Scholar, University of North Carolina, Chapel Hill, 2024
+
 * Assistant Professor, University of Texas at Arlington, TX, U.S.A.,  2018 - 2023
   * Computer Science and Engineering
 
