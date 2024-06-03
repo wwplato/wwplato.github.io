@@ -30,7 +30,7 @@ Professional Experience
 * Assistant Professor, POSTECH, South Korea, 2020 - 2023
   * Graduate School of Artificial Intelligence (GSAI)
   * Computer Science and Engineering (CSE)
-  * Medical Science and Engineering (MSE)
+  * Medical Science and Engineering (MED)
 
 * Visiting Scholar, University of North Carolina, Chapel Hill, 2024
 
