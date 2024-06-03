@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae: [link](../files/cv_wonhwa_202404.pdf "CV").
+Curriculum Vitae: [CV](../files/cv_wonhwa_202404.pdf "CV").
+
+<a href="../files/cv_wonhwa_202404.pdf" target="_blank">CV</a>
+
 -----
 
 Biography
