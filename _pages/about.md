@@ -30,7 +30,8 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-
+* May, 2024. 1 paper published at Medical Image Analysis (MedIA) in collaboration with UNC Chapel Hill. [IF: 10.9]
+* May, 2024. 3 papers provisionally accepted to MICCAI from our group (top ~11%)! Wait for more acceptances after the rebuttal.
 * May, 2024. 2 papers accepted to ICML. Congrats to all the authors!
 * Apr, 2024. Seunghun and Jaeyoon’s ISBI paper has been selected for Oral Presentation.
 * Feb, 2024. Professor Ilwoo Lyu and his students joined the lab, and our lab is now named as `Medical Information Processing (MIP)’ Lab (previously Medical Imaging and Vision (MIV) Lab).
