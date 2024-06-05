@@ -5,10 +5,9 @@ permalink: /students/
 author_profile: true
 ---
 
-* Hyuna Cho (MS/PhD@GSAI)
-* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho")
+* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (MS/PhD@GSAI)
 * Seunghun Baek (MS/PhD@GSAI)
-* Jaeyoon Sim (MS/PhD@GSAI)
+* [Jaeyoon Sim](https://jaeyoonssim.github.io "Jaeyoon Sim") (MS/PhD@GSAI)
 * Joonhyuk Park (MS/PhD@CSE)
 * Yubin Han (MS@GSAI)
 * Sooyeon Jeon (MS@GSAI)
