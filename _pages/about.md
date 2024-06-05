@@ -78,3 +78,5 @@ Recent News
 * May, 2020. We have a paper accepted to MICCAI 2020. Congrats Fan!
 * Jan, 2020. We have a paper accepted to ISBI 2020 for Oral Presentation. Congrats Xin! 
 * Jan, 2018. I joined Computer Science and Engineering at the University of Texas at Arlington as an Assistant Professor. 
+* Sep, 2017. I joined Data Science Team at NEC Labs., America as a Researcher. 
+* May, 2017. I became a Ph.D. 
