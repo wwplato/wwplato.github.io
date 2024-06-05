@@ -77,6 +77,8 @@ Recent News
 * July, 2020. We have a paper accepted to **TPAMI** in collaboration with UW-Madison.
 * May, 2020. We have a paper accepted to **MICCAI** 2020. Congrats Fan!
 * Jan, 2020. We have a paper accepted to **ISBI** 2020 for Oral Presentation. Congrats Xin! 
+* Jul, 2019. 1 paper accepted to **ICCV** 2019 in collaboration with UW-Madison. 
+* Oct, 2018. My paper accepted to **NeuroImage: Clinical**. 
 * Aug, 2018. Our proposal with Georgia Tech to C-TEDD is funded by US Department of Transportation (DOT).
 * Jan, 2018. I joined Computer Science and Engineering at the University of Texas at Arlington as an Assistant Professor. 
 * Sep, 2017. I joined Data Science Team at NEC Labs., America as a Researcher. 
