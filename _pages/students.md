@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * Hyuna Cho (MS/PhD@GSAI)
+* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho")
 * Seunghun Baek (MS/PhD@GSAI)
 * Jaeyoon Sim (MS/PhD@GSAI)
 * Joonhyuk Park (MS/PhD@CSE)
@@ -23,6 +24,7 @@ author_profile: true
 * Hayoung Ahn (MS@GSAI, joint program with KT)
 * Soojin Hwang (MS@GSAI)
 
+<!-- This is an example of a [link](http://github.com "Github"). -->
 
 
 Alumni
