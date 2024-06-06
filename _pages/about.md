@@ -33,7 +33,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 Recent News
 -----
 * May, 2024. 1 paper published at **Medical Image Analysis (MedIA)** in collaboration with UNC Chapel Hill. [IF: 10.9]
-* May, 2024. 3 papers **provisionally accepted** to MICCAI 2024 from our group (top ~11%)! Wait for more acceptances after the rebuttal.
+* May, 2024. 3 papers **provisionally accepted** to **MICCAI** 2024 from our group (top ~11%)! Wait for more acceptances after the rebuttal.
 * May, 2024. 2 papers accepted to **ICML** 2024. Congrats to all the authors!
 * Apr, 2024. Seunghun and Jaeyoon’s ISBI paper has been selected for **Oral Presentation**.
 * Feb, 2024. Professor Ilwoo Lyu and his students joined the lab, and our lab is now named as `Medical Information Processing (MIP)’ Lab (previously Medical Imaging and Vision (MIV) Lab).
@@ -44,7 +44,7 @@ Recent News
 * Jan, 2024. We will be presenting 2 abstracts at **OHBM** in June. The conference will be held at COEX in South Korea.
 * Jan, 2024. 1 paper accepted to **ICLR** 2024 for event prediction. Congrats to Yujee!
 * Jan, 2024. 1 paper accepted to **Biomedical Signal Processing and Control** in collaboration with Dr. Ryu at Aju University.
-* Jan, 2024. I am visitig University of North Carolina, Chapel Hill during my sabbatical until Aug, 2024.
+* Jan, 2024. I am visiting University of North Carolina, Chapel Hill during my sabbatical until Aug, 2024.
 * Dec, 2023. 1 paper accepted to **AAAI**. Congratulation to Jaeyoon!
 * Nov, 2023. I moved to a new office. Please find me at #4412 RIST Building IV.
 * Sep, 2023. 2 papers accepted to **NeurIPS**. Congratulation to Hyuna (POSTECH) and Tingting (UNC)!
@@ -52,7 +52,7 @@ Recent News
 * Aug, 2023. 1 paper accepted to **WACV** 2024 in the first round. Congrats Hyuna!
 * Aug, 2023. Hyuna’s paper ‘Mixing Temporal Graphs with MLP for Longitudinal Brain Connectome Analysis‘ has been selected for **Oral Presentation** at MICCAI 2023 (top ~3%).
 * Jun, 2023. Total of 7 papers accepted to **MICCAI** 2023 from our group. Congrats to all the authors!
-* May, 2023. 2 papers from our group **provisionally accepted** to MICCAI 2023 (top ~14%), and more to come!
+* May, 2023. 2 papers from our group **provisionally accepted** to **MICCAI** 2023 (top ~14%), and more to come!
 * Apr, 2023. 1 paper accepted to **ICML** 2023 in collaboration with researchers at ETRI.
 * Mar, 2023. We have a paper on Wishart Process accepted to **Computational Statistics & Data Analysis (CSDA)** (~10% acceptance rate). Congrats to Rui and Fan!
 * Feb, 2023. 1 paper accepted to **CVPR** 2023 in collaboration with Dr. Cho at POSTECH.
