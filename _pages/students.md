@@ -15,7 +15,7 @@ author_profile: true
 * Yechan Hwang (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@GSAI)
 * Sungwoo Hur (PhD@GSAI)
-* Yujee Song (MS@GSAI)
+* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS@GSAI)
 * Minjae Lee (MS/PHD@CSE)
 * Donghyun Lee (MS@GSAI)
 * Sungyoon Jung (MS@CSE)
