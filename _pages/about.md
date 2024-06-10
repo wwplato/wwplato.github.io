@@ -65,7 +65,7 @@ Recent News
 * May, 2022. Hyuna Cho won the **POSTECHIAN Fellowship**. Congratulation!
 * Apr, 2022. (Pre) Ph.D Fan successfully defended! She will join Genentech as a Researcher.
 * Apr, 2022. 1 paper accepted to **IJCAI**. Congrats to Xin.
-* Apr, 2022. We moved to a new lab!
+* Apr, 2022. We moved to a new lab! Our lab is now named as Medical Imaging and Vision (MIV) lab. 
 * Jan, 2022. 1 paper accepted to **ISBI** 2022. Congrats Fan!
 * Jun, 2021. 2 papers accepted to **MICCAI** 2021. Congrats to Hyuna (POSTECH) and Fan (UTA)!
 * Mar, 2021. Our proposal to **NIH R03** is finally funded, a joint work with UNC (Guorong Wu).
