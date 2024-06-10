@@ -124,6 +124,22 @@ Annie M. Racine, Andrew P. Merluzzi, Nagesh Adluru, Derek Norton, Rebecca L. Kos
 
 Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Associations between PET Amyloid Pathology and DTI Brain Connectivity in Preclinical Alzheimer’s Disease”, ___Brain Connectivity___, 2019.
 
+
+**Won Hwa Kim**, Noelle Fields, Ling Xu, and Chen Kan, 	
+"Missing Value Imputation via Graph Completion in Questionnaires of Persons with Dementia", 
+Gerontological Society of America (GSA) Annual Scientific Meeting, 2019.
+
+
+Zachary Bailey, Xin Ma, Martin Hirsch, **Won Hwa Kim**, Juhyun Lee, 
+"Development of an Auto-segmentation Technique using a Convolution Neural Network for the Segmentation of the Vantricular Cavity in Zebrafish", Basic Cardiovascular Sciences, 2019.
+
+2018
+-----
+
+**Won Hwa Kim**, Hyunwoo J. Kim, Nagesh Adluru, Vikas Singh, 
+"Multi-resolution Analysis for Sparse Inverse Covariance Matrix Estimation", 
+International Conference on Brain Informatics (BI), 2018.
+
 2017
 ------
 **Won Hwa Kim**, “A Multi-resolution Framework for Statistical Analysis of Neuroimaging Data”, *Doctoral Thesis*, 2017.
