@@ -21,7 +21,7 @@ You can find my [Curriculum Vitae](../files/cv_wonhwa_202404.pdf "CV") here.
 Education
 -----
 * Ph.D in Computer Science, University of Wisconsin - Madison, 2017
-* M.S. in Rotobics, KAIST, 2010
+* M.S. in Robotics, KAIST, 2010
 * B.S. in Electrical Engineering, Sungkyunkwan University, 2008
 
 Professional Experience
