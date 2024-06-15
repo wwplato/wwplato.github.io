@@ -22,9 +22,9 @@ Inhyuk Park, **Won Hwa Kim**, Jongbin Ryu, “Style-KD: Class-imbalanced medical
 
 Jaeyoon Sim, Sooyeon Jeon, Injun Choi, Guorong Wu, **Won Hwa Kim**, “Learning to Approximate Adaptive Kernel Convolution on Graphs”, *AAAI Conference on Artificial Intelligence* (**AAAI**), 2024.
 
-Hyuna Cho, Yubin Han, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Network for Isolating the Impact of Long-term SES Changes on Brain Development”, Annual Meeting of the Organization for Human Brain Mapping (**OHBM**)
+Hyuna Cho, Yubin Han, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Network for Isolating the Impact of Long-term SES Changes on Brain Development”, *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**)
 
-Joonhyuk Park\*, Yechan Hwang\*, Minjeong Kim, Moo K. Chung, Guorong Wu, **Won Hwa Kim**, “Brain Connectome Analysis for Alzheimer’s Disease using Hodge Laplacian-based Edge Convolution”, Annual Meeting of the Organization for Human Brain Mapping (**OHBM**) [\*: equal contribution]
+Joonhyuk Park\*, Yechan Hwang\*, Minjeong Kim, Moo K. Chung, Guorong Wu, **Won Hwa Kim**, “Brain Connectome Analysis for Alzheimer’s Disease using Hodge Laplacian-based Edge Convolution”, *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) [\*: equal contribution]
 
 Hyuna Cho, Injun Choi, Suha Kwak, **Won Hwa Kim**, “Interactive Network Perturbation between Teacher and Students for Semi-Supervised Semantic Segmentation”, *Winter Conference on Applications of Computer Vision* (**WACV**), 2024. [Accepted in the first round: 92/815 = ~11%]
 
@@ -127,7 +127,7 @@ Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B.
 
 **Won Hwa Kim**, Noelle Fields, Ling Xu, and Chen Kan, 	
 "Missing Value Imputation via Graph Completion in Questionnaires of Persons with Dementia", 
-Gerontological Society of America (GSA) Annual Scientific Meeting, 2019.
+*Gerontological Society of America (GSA) Annual Scientific Meeting*, 2019.
 
 
 Zachary Bailey, Xin Ma, Martin Hirsch, **Won Hwa Kim**, Juhyun Lee, 
