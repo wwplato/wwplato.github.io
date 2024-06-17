@@ -8,7 +8,7 @@ author_profile: true
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (MS/PhD@GSAI)
 * Seunghun Baek (MS/PhD@GSAI)
 * [Jaeyoon Sim](https://jaeyoonssim.github.io "Jaeyoon Sim") (MS/PhD@GSAI)
-* Joonhyuk Park (MS/PhD@CSE)
+* [Joonhyuk Park](https://pjh1023.github.io/ "Joonhyuk Par") (MS/PhD@CSE)
 * Yubin Han (MS@GSAI)
 * Sooyeon Jeon (MS@GSAI)
 * Minjae Jeong (MS@GSAI)
