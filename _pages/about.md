@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Jun, 2024. Total of 5 papers to **MICCAI** 2024. Looking forward to visiting Moroco!
 * May, 2024. 1 paper published at **Medical Image Analysis (MedIA)** in collaboration with UNC Chapel Hill. [IF: 10.9]
 * May, 2024. 3 papers **provisionally accepted** to **MICCAI** 2024 from our group (top ~11%)! Wait for more acceptances after the rebuttal.
 * May, 2024. 2 papers accepted to **ICML** 2024. Congrats to all the authors!
