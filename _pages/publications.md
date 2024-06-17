@@ -10,9 +10,9 @@ author_profile: true
 
 
 
-Seunghun Baek, Jaeyoon Sim, Guorong Wu, **Won Hwa Kim**, "OCL: Ordinal Contrastive Learning for Imputating Features with Progressive Labels", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [Provisional accept: ~11%]
+Seunghun Baek\*, Jaeyoon Sim\*, Guorong Wu, **Won Hwa Kim**, "OCL: Ordinal Contrastive Learning for Imputating Features with Progressive Labels", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [\*: equal contribution, Provisional accept: ~11%]
 
-Minjae Jeong\*, Hyuna Cho\*, Sungyoon Jung, **Won Hwa Kim**, "Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [Provisional accept: ~11%]
+Minjae Jeong\*, Hyuna Cho\*, Sungyoon Jung, **Won Hwa Kim**, "Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [\*: equal contribution, Provisional accept: ~11%]
 
 Yanquan Huang, Tingting Dan, **Won Hwa Kim**, Guorong Wu, "Uncovering Cortical Pathways of Prion-like Pathology Spreading in Alzheimer's Disease by Neural Optimal Mass Transport", 
 *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [Provisional accept: ~11%]
