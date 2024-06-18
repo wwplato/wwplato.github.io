@@ -28,7 +28,7 @@ author_profile: true
 
 Alumni
 ----
-* [Xin Ma](https://xma24.github.io/xma/, "Xin Ma") (PhD@UTA, 2024) - Senior Researcher at Sam's Club Research
+* [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD@UTA, 2024) - Senior Researcher at Sam's Club Research
 * Ellen Jieun Oh (MS@POSTECH, 2023) – Researcher at LG CTO
 * Injun Choi (MS@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
 * Fan Yang (PhD@UTA, 2022) – Researcher at GenenTech
