@@ -36,7 +36,7 @@ Recent News
 * May, 2024. 1 paper published at **Medical Image Analysis (MedIA)** in collaboration with UNC Chapel Hill. [IF: 10.9]
 * May, 2024. 3 papers **provisionally accepted** to **MICCAI** 2024 from our group (top ~11%)! Wait for more acceptances after the rebuttal.
 * May, 2024. 2 papers accepted to **ICML** 2024. Congrats to all the authors!
-* Apr, 2024. Seunghun and Jaeyoon’s ISBI paper has been selected for **Oral Presentation**.
+* Apr, 2024. Seunghun and Jaeyoon’s ISBI paper has been selected for **Oral Presentation (top ~14%)**.
 * Feb, 2024. Professor Ilwoo Lyu and his students joined the lab, and our lab is now named as `Medical Information Processing (MIP)’ Lab (previously Medical Imaging and Vision (MIV) Lab).
 * Feb, 2024. 1 paper accepted to **ISBI**. Congratulation to Seunghun and Jaeyoon!
 * Feb, 2024. Papers by Jaeyoon (AAAI 2024) and Hyuna (MICCAI 2023) have been honored with the **Excellence Award (우수상)** from Outstanding Papers from BK21 Graduate Students. Congrats!
