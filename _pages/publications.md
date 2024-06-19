@@ -27,7 +27,7 @@ Hyuna Cho, Jaeyoon Sim, Guorong Wu, **Won Hwa Kim**, “Neurodegenerative Brain 
 
 Tingting Dan, Ziquan Wei, **Won Hwa Kim**, Guorong Wu, “Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold”, *International Conference on Machine Learning* (**ICML**), 2024.
 
-Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Modality-Agnostic Style Transfer for Holistic Feature Imputation”, *International Symposium on Biomedical Imaging* (**ISBI**), 2024. [**Oral presentation**, *: equal contribution]
+Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim**, “Modality-Agnostic Style Transfer for Holistic Feature Imputation”, *International Symposium on Biomedical Imaging* (**ISBI**), 2024. [**Oral presentation: ~14%**, *: equal contribution]
 
 Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations”, *International Conference on Learning Representations* (**ICLR**), 2024.
 
