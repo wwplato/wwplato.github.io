@@ -167,7 +167,7 @@ International Conference on Brain Informatics (BI), 2018.
 
 Seong Jae Hwang, **Won Hwa Kim**, Barbara B. Bendlin, Nagesh Adluru, Vikas Singh, “Multi-Resolution Analysis of DTI-Derived Brain Connectivity and the Influence of PET-Derived Alzheimer’s Disease Pathology in a Preclinical Cohort”, *Alzheimer’s Association International Conference* (**AAIC**), 2016.
 
-**Won Hwa Kim**\*, Hyunwoo J. Kim\*, Nagesh Adluru, Vikas Singh, “Latent Variable Graphical Model Selection using Harmonic Analysis: Applications to the Human Connectome Project (HCP)”, *Computer Vision and Pattern Recognition* (**CVPR**), 2016. [\*: First authorship share, **Spotlight / top 9.7%**]
+**Won Hwa Kim**\*, Hyunwoo J. Kim\*, Nagesh Adluru, Vikas Singh, “Latent Variable Graphical Model Selection using Harmonic Analysis: Applications to the Human Connectome Project (HCP)”, *Computer Vision and Pattern Recognition* (**CVPR**), 2016. [\*: First authorship share, **Spotlight: ~9.7%**]
 *: First authorship shared.
 
 2015
