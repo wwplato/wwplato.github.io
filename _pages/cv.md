@@ -33,6 +33,7 @@ Professional Experience
   * Medical Science and Engineering (MED)
 
 * Visiting Scholar, University of North Carolina, Chapel Hill, 2024
+  * Department of Psychiatry, School of Medicine
 
 * Assistant Professor, University of Texas at Arlington, TX, U.S.A.,  2018 - 2023
   * Computer Science and Engineering
