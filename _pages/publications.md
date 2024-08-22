@@ -8,6 +8,8 @@ author_profile: true
 2024
 ------
 
+Wooseok Jung, Saehyun Kim, Dong-Hee Kim, **Won Hwa Kim**, "Modelling Brain Atrophy Dynamics Enhances Predicting Cognitive Decline in Alzheimer’s Disease Continuum", Cognitive Computational Neuroscience (CCN), 2024. 
+
 Seunghun Baek\*, Jaeyoon Sim\*, Guorong Wu, **Won Hwa Kim**, "OCL: Ordinal Contrastive Learning for Imputating Features with Progressive Labels", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [\*: equal contribution, **Provisional accept: ~11%**]
 
 Minjae Jeong\*, Hyuna Cho\*, Sungyoon Jung, **Won Hwa Kim**, "Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. [\*: equal contribution, **Provisional accept: ~11%**]
