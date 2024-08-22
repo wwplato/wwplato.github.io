@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (MS/PhD@GSAI)
-* Seunghun Baek (MS/PhD@GSAI)
+* [Seunghun Baek](https://habaek4.github.io/ "Seunghun Baek") (MS/PhD@GSAI)
 * [Jaeyoon Sim](https://jaeyoonssim.github.io "Jaeyoon Sim") (MS/PhD@GSAI)
 * [Joonhyuk Park](https://pjh1023.github.io/ "Joonhyuk Par") (MS/PhD@CSE)
-* Minjae Jeong (MS@GSAI)
+* Minjae Jeong (MS/PhD@GSAI)
 * Yechan Hwang (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@GSAI)
 * Sungwoo Hur (PhD@GSAI)
@@ -20,6 +20,7 @@ author_profile: true
 * Seungjoo Lee (MS@CSE)
 * Hayoung Ahn (MS@GSAI, joint program with KT)
 * Soojin Hwang (MS@GSAI)
+* Jaejin Lee (MS@GSAI)
 
 Alumni
 ----
@@ -32,4 +33,3 @@ Alumni
 * Vivek Patel (Undergraduate@UTA with Honors College, 2020) – Software Developer at US Bank
 * Debapriya Benergee (MS@UTA, 2020) – Data Scientist at Master Card
 * Anna Philips (MS@UTA, 2019) – Software Engineer at Amazon (previously Software Developter at MatMaCorp)
-
