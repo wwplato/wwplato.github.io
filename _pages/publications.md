@@ -97,7 +97,7 @@ Fan Yang, Guorong Wu, **Won Hwa Kim**, “Disentangled Representation of Longitu
 ------
 Hyuna Cho, Gunwoong Park, Amal Isaiah, **Won Hwa Kim**, “Covariate Correcting Networks for Identifying Associations between Socioeconomic Factors and Brain Outcomes in Children”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2021.
 
-Fan Yang*, Rui Meng*, Hyuna Cho, Guorong Wu, **Won Hwa Kim**, “Disentangled Sequential Graph Autoencoder for Preclinical Alzheimer’s Disease Characterizations from ADNI study”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2021. [*: Equal contribution]
+Fan Yang\*, Rui Meng\*, Hyuna Cho, Guorong Wu, **Won Hwa Kim**, “Disentangled Sequential Graph Autoencoder for Preclinical Alzheimer’s Disease Characterizations from ADNI study”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2021. [*: Equal contribution]
 
 Xin Ma, Guorong Wu, Seongjae Hwang, **Won Hwa Kim**, “Learning Multi-resolution Graph Edge Embedding for Discovering Brain Network Dysfunction in Neurological Disorders”, *International Conference on Information Processing in Medical Imaging* (**IPMI**), 2021.
 
