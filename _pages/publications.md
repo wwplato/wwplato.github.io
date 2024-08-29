@@ -23,6 +23,9 @@ Yechan Hwang, Soojin Hwang, Guorong Wu, **Won Hwa Kim**, "Multi-order Simplex-ba
 Jaeyoon Sim, Minjae Lee, Guorong Wu, **Won Hwa Kim**, "Multi-Modal Graph Neural Network with Transformer-Guided Adaptive Diffusion for Preclinical Alzheimer Classification", 
 *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. 
 
+Sooyeon Jeon, Yujee Song, **Won Hwa Kim**, "Gene-to-Image: Decoding Brain Images from Genetics via Latent Diffusion Models", 
+*Workshop on PRedictive Intelligence in MEdicine (PRIME)*, *Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2024. 
+
 Tingting Dan, Mustafa Dere, **Won Hwa Kim**, Minjeong Kim, Guorong Wu, “TauFlowNet: Revealing latent propagation mechanism of tau aggregates using deep neural transport equations”, *Medical Image Analysis* (**MedIA**), 2024.
 
 Hyuna Cho, Jaeyoon Sim, Guorong Wu, **Won Hwa Kim**, “Neurodegenerative Brain Network Classification via Adaptive Diffusion with Temporal Regularization”, *International Conference on Machine Learning* (**ICML**), 2024.
