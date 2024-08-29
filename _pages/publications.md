@@ -24,7 +24,7 @@ Jaeyoon Sim, Minjae Lee, Guorong Wu, **Won Hwa Kim**, "Multi-Modal Graph Neural 
 *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2024. 
 
 Sooyeon Jeon, Yujee Song, **Won Hwa Kim**, "Gene-to-Image: Decoding Brain Images from Genetics via Latent Diffusion Models", 
-*Workshop on PRedictive Intelligence in MEdicine (PRIME)*, *Medical Image Computing and Computer Assisted Intervention* (MICCAI), 2024. 
+*MICCAI Workshop on PRedictive Intelligence in MEdicine (PRIME)*, 2024. 
 
 Tingting Dan, Mustafa Dere, **Won Hwa Kim**, Minjeong Kim, Guorong Wu, “TauFlowNet: Revealing latent propagation mechanism of tau aggregates using deep neural transport equations”, *Medical Image Analysis* (**MedIA**), 2024.
 
@@ -36,7 +36,7 @@ Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hw
 
 Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations”, *International Conference on Learning Representations* (**ICLR**), 2024.
 
-Inhyuk Park, **Won Hwa Kim**, Jongbin Ryu, “Style-KD: Class-imbalanced medical image classification via style knowledge distillation”, ___Biomedical Signal Processing and Control___, 2024. [Impact factor: 5.1]
+Inhyuk Park, **Won Hwa Kim**, Jongbin Ryu, “Style-KD: Class-imbalanced medical image classification via style knowledge distillation”, **Biomedical Signal Processing and Control**, 2024. [Impact factor: 5.1]
 
 Jaeyoon Sim, Sooyeon Jeon, Injun Choi, Guorong Wu, **Won Hwa Kim**, “Learning to Approximate Adaptive Kernel Convolution on Graphs”, *AAAI Conference on Artificial Intelligence* (**AAAI**), 2024.
 
