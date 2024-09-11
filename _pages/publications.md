@@ -120,7 +120,7 @@ Feng Tong\*, Muhammad Shahid, Peng Jin, Sungyong Jung, **Won Hwa Kim**, Jayoung 
 
 Jayoung Kim, Peng Jin, **Won Hwa Kim**, Wun-Jae Kim “Utilizing Machine Learning to Discern Hidden Clinical Values from Big Data in Urology”, *Investigative and Clinical Urology*, 2020.
 
-Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Identifying Disease-specific Variations in Brain Connectivity”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
+Xin Ma, Guorong Wu, **Won Hwa Kim**, “Enriching Statistical Inferences on Brain Connectivity via Latent Space Graph Embeddings”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
 
 Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Detecting Variations in Brain Connectivity”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
 
