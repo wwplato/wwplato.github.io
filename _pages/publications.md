@@ -36,7 +36,7 @@ Seunghun Baek\*, Jaeyoon Sim\*, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hw
 
 Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations”, *International Conference on Learning Representations* (**ICLR**), 2024.
 
-Inhyuk Park, **Won Hwa Kim**, Jongbin Ryu, “Style-KD: Class-imbalanced medical image classification via style knowledge distillation”, **Biomedical Signal Processing and Control**, 2024. [Impact factor: 5.1]
+Inhyuk Park, **Won Hwa Kim**, Jongbin Ryu, “Style-KD: Class-imbalanced medical image classification via style knowledge distillation”, *Biomedical Signal Processing and Control*, 2024. [Impact factor: 5.1]
 
 Jaeyoon Sim, Sooyeon Jeon, Injun Choi, Guorong Wu, **Won Hwa Kim**, “Learning to Approximate Adaptive Kernel Convolution on Graphs”, *AAAI Conference on Artificial Intelligence* (**AAAI**), 2024.
 
