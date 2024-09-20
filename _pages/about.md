@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Aug, 2024. My student Hyuna Cho is awarded with Google East Asia Ph.D. Fellowship. Huuuuuuge congratulation!
 * Jun, 2024. Total of 5 papers to **MICCAI** 2024. Congrats to the authors and looking forward to visiting Moroco!
 * May, 2024. 1 paper published at **Medical Image Analysis (MedIA)** in collaboration with UNC Chapel Hill. [IF: 10.9]
 * May, 2024. 3 papers **provisionally accepted** to **MICCAI** 2024 from our group (top ~11%)! Wait for more acceptances after the rebuttal.
