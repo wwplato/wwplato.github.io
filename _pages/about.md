@@ -32,7 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Sep, 2024. 1 paper accepted to **ACCV**. This work was done in collaboration with VUNO. 
+* Sep, 2024. 1 paper accepted to **ACCV**. I was fortunate to collaborate with VUNO on this project. 
 * Aug, 2024. My student Hyuna Cho is awarded with **Google East Asia PhD Fellowship**. Huuuuuuge congratulation!
 * Jun, 2024. Total of 5 papers to **MICCAI** 2024. Congrats to the authors and looking forward to visiting Moroco!
 * May, 2024. 1 paper published at **Medical Image Analysis (MedIA)** in collaboration with UNC Chapel Hill. [IF: 10.9]
