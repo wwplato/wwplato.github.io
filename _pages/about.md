@@ -33,8 +33,8 @@ I am always looking for highly **self-motivated** students with long term goals.
 Recent News
 -----
 * Sep, 2024. 1 paper accepted to **ACCV**. I was fortunate to collaborate with VUNO on this project. 
-* Aug, 2024. My student Hyuna Cho is awarded with **Google East Asia PhD Fellowship**. Huuuuuuge congratulation!
-* Jun, 2024. Total of 5 papers to **MICCAI** 2024. Congrats to the authors and looking forward to visiting Moroco!
+* Aug, 2024. My student Hyuna Cho is awarded with **Google PhD Fellowship**. Huuuuuuge congratulation!
+* Jun, 2024. Total of 6 papers (5 main and 1 workshop papers) accepted to **MICCAI** 2024. Congrats to the authors and looking forward to visiting Morocco!
 * May, 2024. 1 paper published at **Medical Image Analysis (MedIA)** in collaboration with UNC Chapel Hill. [IF: 10.9]
 * May, 2024. 3 papers **provisionally accepted** to **MICCAI** 2024 from our group (top ~11%)! Wait for more acceptances after the rebuttal.
 * May, 2024. 2 papers accepted to **ICML** 2024. Congrats to all the authors!
