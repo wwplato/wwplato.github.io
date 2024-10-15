@@ -32,7 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Oct, 2024. Hyeonmin Kim, an undergraduate researcher in our group, was **ranked 1** in two tasks in *Ultra-Widefield Fundus Imaging for Diabetic Retinopathy Challenge* at MICCAI 2024. Nice work done!
+* Oct, 2024. Hyeonmin Kim, an undergraduate researcher in our group, was **ranked 1** in two tasks in *Ultra-Widefield Fundus Imaging for Diabetic Retinopathy Challenge (UWF4DR)* at MICCAI 2024. Nice work done!
 * Sep, 2024. 1 paper accepted to **ACCV**. I was fortunate to collaborate with VUNO on this project. 
 * Aug, 2024. My student Hyuna Cho is awarded with **Google PhD Fellowship**. Huuuuuuge congratulation!
 * Jun, 2024. Total of 6 papers (5 main and 1 workshop papers) accepted to **MICCAI** 2024. Congrats to the authors and looking forward to visiting Morocco!
