@@ -224,6 +224,8 @@ Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Explainable and Continuo
 
 Jaeyoon Sim, Sooyeon Jeon, Yubin Han, **Won Hwa Kim**, “Learning to Approximate Adaptive Kernel Convolution on Graphs”, Workshop on Image Processing and Image Understanding* (IPIU), 2024. [**Bronze Award**]
 
+Seunghun Baek, Jaeyoon Sim, Siyeon Park, Cheolung Yang, Songyi Jeon, Jongho Song, **Won Hwa Kim**, "AI-Driven BGA Solder Joint Failure Detection of PCB Assembly", *Autumn Annual Conference of Institute of Electronics and Information Engineers* (IEIE), 2023
+
 Hyuna Cho, Yubin Han, Guorong Wu, **Won Hwa Kim**, “Spatio-Temporal Multi-Layer Perceptron for Longitudinal Human Brain Connectome Analysis”, *Workshop on Image Processing and Image Understanding* (IPIU), 2023. [**Oral Presentation / Silver Award**]
 
 Hyuna Cho, Injun Choi, Yechan Hwang, Suha Kwak, **Won Hwa Kim**, “Interactive Network Perturbation for Semi-Supervised Semantic Segmentation”, *Workshop on Image Processing and Image Understanding* (IPIU), 2023. [**Oral Presentation / Bronze Award**]
