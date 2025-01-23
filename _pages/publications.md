@@ -8,14 +8,14 @@ author_profile: true
 2025
 ------
 
-Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Da, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies", *International Conference on Learning Representations* (**ICLR**), 2025
+Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Da, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies", *International Conference on Learning Representations* (**ICLR**), 2025.
 
-Minjae Jeong, Yechan Hwang, Jaejin Lee, Sungyoon Jung, **Won Hwa Kim**, "HGM^3: Hierarchical Generative Masked Motion Modeling with Hard Token Mining", *International Conference on Learning Representations* (**ICLR**), 2025
+Minjae Jeong\*, Yechan Hwang\*, Jaejin Lee, Sungyoon Jung, **Won Hwa Kim**, "HGM^3: Hierarchical Generative Masked Motion Modeling with Hard Token Mining", *International Conference on Learning Representations* (**ICLR**), 2025. [\*: equal contribution]
 
 2024
 ------
 
-Hyeonwoo Cho, Chanmin Park, Dong-hee Kim, Jinyoung Kim, **Won Hwa Kim**, "CNG-SFDA: Clean-and-Noisy Region Guided Online-Offline Source-Free Domain Adaptation", *Asian Conference on Computer Vision* (**ACCV**), 2024
+Hyeonwoo Cho, Chanmin Park, Dong-hee Kim, Jinyoung Kim, **Won Hwa Kim**, "CNG-SFDA: Clean-and-Noisy Region Guided Online-Offline Source-Free Domain Adaptation", *Asian Conference on Computer Vision* (**ACCV**), 2024.
 
 Wooseok Jung, Saehyun Kim, Dong-Hee Kim, **Won Hwa Kim**, "Modelling Brain Atrophy Dynamics Enhances Predicting Cognitive Decline in Alzheimer’s Disease Continuum", *Cognitive Computational Neuroscience* (CCN), 2024. 
 
