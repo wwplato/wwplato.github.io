@@ -8,7 +8,7 @@ author_profile: true
 2025
 ------
 
-Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Da, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies", *International Conference on Learning Representations* (**ICLR**), 2025.
+Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies", *International Conference on Learning Representations* (**ICLR**), 2025.
 
 Minjae Jeong\*, Yechan Hwang\*, Jaejin Lee, Sungyoon Jung, **Won Hwa Kim**, "HGM^3: Hierarchical Generative Masked Motion Modeling with Hard Token Mining", *International Conference on Learning Representations* (**ICLR**), 2025. [\*: equal contribution]
 
