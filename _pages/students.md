@@ -13,7 +13,6 @@ author_profile: true
 * Yechan Hwang (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@GSAI)
 * Sungwoo Hur (PhD@GSAI)
-* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS@GSAI)
 * Minjae Lee (MS/PHD@CSE)
 * Donghyun Lee (MS@GSAI)
 * Sungyoon Jung (MS@CSE)
@@ -24,9 +23,10 @@ author_profile: true
 
 Alumni
 ----
+* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS@GSAI, 2025) - Researcher at Samsung Research
 * Yubin Han (MS@GSAI, 2024) - Manager at Hyundai Motors Group
 * Sooyeon Jeon (MS@GSAI, 2024)
-* [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD@UTA, 2024) - Senior Researcher at Sam's Club Research
+* [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD@UTA, 2024) - Senior Data Scientist at Sam's Club / Walmart Research
 * Ellen Jieun Oh (MS@POSTECH, 2023) – Researcher at LG CTO
 * Injun Choi (MS@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
 * Fan Yang (PhD@UTA, 2022) – Researcher at GenenTech
