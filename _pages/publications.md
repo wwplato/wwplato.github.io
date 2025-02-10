@@ -145,11 +145,11 @@ Seongjae Hwang, Zirui Tao, **Won Hwa Kim**\*, Vikas Singh\*, “Conditional Recu
 
 Seongjae Hwang, Zirui Tao, **Won Hwa Kim**\*, Vikas Singh\*, “Statistical Analysis of Longitudinally and Conditionally Generated Neuroimaging Measures via Conditional Recurrent Flow”, *Statistical Deep Learning in Computer Vision* (ICCV Workshop), 2019. [\*: Senior authorship shared]
 
-**Won Hwa Kim**, Annie M. Racine, Nagesh Adluru, Seong Jae Hwang, Kaj Blennow, Henrik Zetterberg, Cynthia M.Carlsson, Sanjay Asthana, Rebecca L. Koscik, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Cerebrospinal fluid biomarkers of neurofibrillary tangles and synaptic dysfunction are associated with longitudinal decline in white matter connectivity: A multi-resolution graph analysis” ___NeuroImage: Clinical___, 2019.
+**Won Hwa Kim**, Annie M. Racine, Nagesh Adluru, Seong Jae Hwang, Kaj Blennow, Henrik Zetterberg, Cynthia M.Carlsson, Sanjay Asthana, Rebecca L. Koscik, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Cerebrospinal fluid biomarkers of neurofibrillary tangles and synaptic dysfunction are associated with longitudinal decline in white matter connectivity: A multi-resolution graph analysis” ***NeuroImage: Clinical***, 2019.
 
 Annie M. Racine, Andrew P. Merluzzi, Nagesh Adluru, Derek Norton, Rebecca L. Koscik, Lindsay R. Clark, Sara E. Berman, Christopher R. Nicholas, Sanjay Asthana, Andrew L. Alexander, Kaj Blennow, Henrik Zetterberg, **Won Hwa Kim**, Vikas Singh, Cynthia M. Carlsson, Barbara B. Bendlin, Sterling C. Johnson, “Association of longitudinal whitematter degeneration and cerebrospinal fluid biomarkers of neurodegeneration, inflammation and Alzheimer’s disease in late-middle-aged adults”, **Brain Imaging and Behavior**, 2019.
 
-Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Associations between PET Amyloid Pathology and DTI Brain Connectivity in Preclinical Alzheimer’s Disease”, ___Brain Connectivity___, 2019.
+Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Associations between PET Amyloid Pathology and DTI Brain Connectivity in Preclinical Alzheimer’s Disease”, ***Brain Connectivity***, 2019.
 
 
 **Won Hwa Kim**, Noelle Fields, Ling Xu, and Chen Kan, 	
@@ -158,14 +158,14 @@ Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B.
 
 
 Zachary Bailey, Xin Ma, Martin Hirsch, **Won Hwa Kim**, Juhyun Lee, 
-"Development of an Auto-segmentation Technique using a Convolution Neural Network for the Segmentation of the Vantricular Cavity in Zebrafish", Basic Cardiovascular Sciences, 2019.
+"Development of an Auto-segmentation Technique using a Convolution Neural Network for the Segmentation of the Vantricular Cavity in Zebrafish", *Basic Cardiovascular Sciences*, 2019.
 
 2018
 -----
 
 **Won Hwa Kim**, Hyunwoo J. Kim, Nagesh Adluru, Vikas Singh, 
 "Multi-resolution Analysis for Sparse Inverse Covariance Matrix Estimation", 
-International Conference on Brain Informatics (BI), 2018.
+*International Conference on Brain Informatics* (BI), 2018.
 
 2017
 ------
