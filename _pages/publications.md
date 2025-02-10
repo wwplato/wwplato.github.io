@@ -181,7 +181,7 @@ International Conference on Brain Informatics (BI), 2018.
 
 Seong Jae Hwang, **Won Hwa Kim**, Barbara B. Bendlin, Nagesh Adluru, Vikas Singh, “Multi-Resolution Analysis of DTI-Derived Brain Connectivity and the Influence of PET-Derived Alzheimer’s Disease Pathology in a Preclinical Cohort”, *Alzheimer’s Association International Conference* (**AAIC**), 2016.
 
-**Won Hwa Kim**\*, Hyunwoo J. Kim\*, Nagesh Adluru, Vikas Singh, “Latent Variable Graphical Model Selection using Harmonic Analysis: Applications to the Human Connectome Project (HCP)”, *Computer Vision and Pattern Recognition* (**CVPR**), 2016. [\*: First authorship share, **Spotlight: ~9.7%**]
+**Won Hwa Kim**\*, Hyunwoo J. Kim\*, Nagesh Adluru, Vikas Singh, “Latent Variable Graphical Model Selection using Harmonic Analysis: Applications to the Human Connectome Project (HCP)”, *Computer Vision and Pattern Recognition* (**CVPR**), 2016. [\*: First authorship shared, **Spotlight: ~9.7%**]
 *: First authorship shared.
 
 2015
@@ -226,6 +226,12 @@ Woo Hyun Kim, Jeongwoo Park, Wong Hyong Lee, **Won Hwa Kim**, Myung Jin Chung, �
 
 Publications (Domestic)
 =====
+
+Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, “Subject-agnostic Cross-Subject Brain Decoding Framework: Enhancing Scalability and Efficiency”, *Workshop on Image Processing and Image Understanding* (IPIU), 2024.
+
+Minjae Lee*, Sungwoo Hur*, Soojin Hwang, **Won Hwa Kim**, “ReGRAF : Training Free Prompt Refinement Via Gradient Flow For Segmentation”, *Workshop on Image Processing and Image Understanding* (IPIU), 2024. [\*: equal contribution, **Outstanding Poster Award**]
+
+Joonhyuk Park, Donghyun Lee, Yujee Song, Guorong Wu, **Won Hwa Kim**, “Diffusion-Based Graph Generation with Topological Awareness via Persistent Homology”, *Workshop on Image Processing and Image Understanding* (IPIU), 2024. [\*: equal contribution]
 
 Yujee Song, Donghyun Lee, Rui Meng, **Won Hwa Kim**, “Explainable and Continuous Time Modeling of Marked Temporal Point Process”, *Workshop on Image Processing and Image Understanding* (IPIU), 2024.
 
