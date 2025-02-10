@@ -91,13 +91,13 @@ Seunghun Baek, Injun Choi, Mustafa Dere, Minjeong Kim, Guorong Wu, **Won Hwa Kim
 
 2022
 ------
-Injun Choi, Guorong Wu, **Won Hwa Kim**, “How Much to Aggregate: Learning Adaptive Node-wise Scales on Graphs for Brain Networks”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. [Acceptance rate: 31%]
+Injun Choi, Guorong Wu, **Won Hwa Kim**, “How Much to Aggregate: Learning Adaptive Node-wise Scales on Graphs for Brain Networks”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. 
 
-Tingting Dan, Hongmin Cai, Zhuobin Huang, Paul Laurenti, **Won Hwa Kim**, Guorong Wu, “Neuro-RDM: An Explainable Neural Network Landscape of Reaction-Diffusion Model for Cognitive Task Recognition”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. [Acceptance rate: 31%]
+Tingting Dan, Hongmin Cai, Zhuobin Huang, Paul Laurenti, **Won Hwa Kim**, Guorong Wu, “Neuro-RDM: An Explainable Neural Network Landscape of Reaction-Diffusion Model for Cognitive Task Recognition”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2022. 
 
 Gangin Park, Chunsan Hong, Bohyung Kim, **Won Hwa Kim**, “What Do Untargeted Adversarial Examples Reveal in Medical Image Segmentation?”, *Uncertainty for Safe Utilization of Machine Learning in Medical Imaging* (UNSURE), 2022.
 
-Xin Ma, **Won Hwa Kim**, “Locally Normalized Soft Contrastive Clustering for Compact Clusters”, *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2022. [Acceptance rate: 15%]
+Xin Ma, **Won Hwa Kim**, “Locally Normalized Soft Contrastive Clustering for Compact Clusters”, *International Joint Conference on Artificial Intelligence* (**IJCAI**), 2022. 
 
 Hyuna Cho\*, Feng Tong, Sungyong You, Sungyoung Jung, **Won Hwa Kim**, Jayoung Kim, “Prediction of the Immune Phenotypes of Bladder Cancer Patients for Precision Oncology”, *IEEE Open Journal of Engineering in Medicine and Biology* (**OJEMB**), 2022 [\*: Hyuna advised by WHKim]
 
@@ -147,7 +147,7 @@ Seongjae Hwang, Zirui Tao, **Won Hwa Kim**\*, Vikas Singh\*, “Statistical Anal
 
 **Won Hwa Kim**, Annie M. Racine, Nagesh Adluru, Seong Jae Hwang, Kaj Blennow, Henrik Zetterberg, Cynthia M.Carlsson, Sanjay Asthana, Rebecca L. Koscik, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Cerebrospinal fluid biomarkers of neurofibrillary tangles and synaptic dysfunction are associated with longitudinal decline in white matter connectivity: A multi-resolution graph analysis” ***NeuroImage: Clinical***, 2019.
 
-Annie M. Racine, Andrew P. Merluzzi, Nagesh Adluru, Derek Norton, Rebecca L. Koscik, Lindsay R. Clark, Sara E. Berman, Christopher R. Nicholas, Sanjay Asthana, Andrew L. Alexander, Kaj Blennow, Henrik Zetterberg, **Won Hwa Kim**, Vikas Singh, Cynthia M. Carlsson, Barbara B. Bendlin, Sterling C. Johnson, “Association of longitudinal whitematter degeneration and cerebrospinal fluid biomarkers of neurodegeneration, inflammation and Alzheimer’s disease in late-middle-aged adults”, **Brain Imaging and Behavior**, 2019.
+Annie M. Racine, Andrew P. Merluzzi, Nagesh Adluru, Derek Norton, Rebecca L. Koscik, Lindsay R. Clark, Sara E. Berman, Christopher R. Nicholas, Sanjay Asthana, Andrew L. Alexander, Kaj Blennow, Henrik Zetterberg, **Won Hwa Kim**, Vikas Singh, Cynthia M. Carlsson, Barbara B. Bendlin, Sterling C. Johnson, “Association of longitudinal whitematter degeneration and cerebrospinal fluid biomarkers of neurodegeneration, inflammation and Alzheimer’s disease in late-middle-aged adults”, ***Brain Imaging and Behavior***, 2019.
 
 Seong Jae Hwang, Nagesh Adluru, **Won Hwa Kim**, Sterling C. Johnson, Barbara B. Bendlin, Vikas Singh, “Associations between PET Amyloid Pathology and DTI Brain Connectivity in Preclinical Alzheimer’s Disease”, ***Brain Connectivity***, 2019.
 
