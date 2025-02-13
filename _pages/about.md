@@ -32,7 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Feb, 2025. Hyuna's **ICLR** paper was selected for **Spotlight** Presentation (**top ~5.1%**). 
+* Feb, 2025. Hyuna's **ICLR** paper was selected for **Spotlight** presentation (**top ~5.1%**). 
 * Jan, 2025. 2 papers accepted to **ICLR** 2025! What a great start of 2025. Congratulations to Minjae (Tid), Yechan, Hyuna and all other co-authers!. 
 * Oct, 2024. Our Lab was nomminated as **top-10 Healty Laboratory** (out of 129 labs) in POSTECH by POSTECH Human Right Center and received **Encouragement Award (장려상)**. 
 * Oct, 2024. Hyeonmin Kim, an undergraduate researcher in our group, was **ranked 1** in two tasks in *Ultra-Widefield Fundus Imaging for Diabetic Retinopathy Challenge (UWF4DR)* at MICCAI 2024. Nice work done!
