@@ -123,15 +123,15 @@ Gowtham Krishnan Murugesan, Chandan Ganesh, Sahil Nalawade, Elizabeth M. Davenpo
 
 Tuan Q. Dinh, Yunyang Xiongy, Zhichun Huangy, Tien Voy, Akshay Mishray, **Won Hwa Kim**, Sathya N. Ravi, Vikas Singh, “Performing Group Difference Testing on Graph Structured Data from GANs: Analysis and Applications in Neuroimaging”, *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2020.
 
-Fan Yang, Amal Isaiah, **Won Hwa Kim**, “COVLET: Covariance-based Wavelet-like Transform for Statistical Analysis of Brain Characteristics in Children”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2020.
+Fan Yang, Amal Isaiah, **Won Hwa Kim**, “COVLET: Covariance-based Wavelet-like Transform for Statistical Analysis of Brain Characteristics in Children”, *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2020. [**MICCAI 2020 NIH AWARDS**] 
 
 Feng Tong\*, Muhammad Shahid, Peng Jin, Sungyong Jung, **Won Hwa Kim**, Jayoung Kim “Classification of the Urinary Metabolome using Machine Learning and Potential Applications to Diagnosing Interstitial Cystitis”, *Bladder*, 2020. [\*: Feng advised by WHKim]
 
 Jayoung Kim, Peng Jin, **Won Hwa Kim**, Wun-Jae Kim “Utilizing Machine Learning to Discern Hidden Clinical Values from Big Data in Urology”, *Investigative and Clinical Urology*, 2020.
 
-Xin Ma, Guorong Wu, **Won Hwa Kim**, “Enriching Statistical Inferences on Brain Connectivity via Latent Space Graph Embeddings”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
+Xin Ma, Guorong Wu, **Won Hwa Kim**, “Enriching Statistical Inferences on Brain Connectivity via Latent Space Graph Embeddings”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**), 2020.
 
-Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Detecting Variations in Brain Connectivity”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**) , 2020.
+Xin Ma, Guorong Wu, **Won Hwa Kim**, “Multi-resolution Graph Neural Network for Detecting Variations in Brain Connectivity”,  *Annual Meeting of the Organization for Human Brain Mapping* (**OHBM**), 2020.
 
 Xin Ma, Guorong Wu, **Won Hwa Kim**, “Enriching Statistical Inferences on Brain Connectivity for Alzheimer’s Disease Analysis via Latent Space Graph Embedding”, *IEEE International Symposium on Biomedical Imaging* (**ISBI**), 2020. [**Accepted for Oral Presentation**]
 
