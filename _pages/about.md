@@ -76,9 +76,10 @@ Recent News
 * Jun, 2021. 2 papers accepted to **MICCAI** 2021. Congrats to Hyuna (POSTECH) and Fan (UTA)!
 * Mar, 2021. Our proposal to **NIH R03** is finally funded, a joint work with UNC (Guorong Wu).
 * Jan, 2021. Our work on Learning multi-resolution representation of graph edges is accepted to **IPMI** 2021. Congrats Xin!
-* Dec, 2020. I joined POSTECH. I am starting Artificial Intellligence and Medical Imaging (AIMI) Lab. 
+* Dec, 2020. I joined **POSTECH**. I am starting Artificial Intellligence and Medical Imaging (AIMI) Lab. 
 * Aug, 2020. My proposal to **NSF CRII** (known as “mini CAREER”) is awarded.
 * Aug, 2020: Our proposal funded by **NSF Core program**, a joint work between UTA (Gautam Das and I) and NJIT (Senjuti B. Roy).
+* Aug, 2020: Fan won **MICCAI 2020 NIH AWARDS**
 * Jun, 2020. We have a paper accepted to **Brain Connectivity** in collaboration with UT Southwestern.
 * July, 2020. We have a paper accepted to **TPAMI** in collaboration with UW-Madison.
 * May, 2020. We have a paper accepted to **MICCAI** 2020. Congrats Fan!
