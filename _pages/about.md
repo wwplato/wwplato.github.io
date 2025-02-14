@@ -81,7 +81,7 @@ Recent News
 * Dec, 2020. I joined **POSTECH**. I am starting Artificial Intellligence and Medical Imaging (AIMI) Lab. 
 * Aug, 2020. My proposal to **NSF CRII** (known as “mini CAREER”) is awarded.
 * Aug, 2020: Our proposal funded by **NSF Core program**, a joint work between UTA (Gautam Das and I) and NJIT (Senjuti B. Roy).
-* Aug, 2020: Fan won **MICCAI 2020 NIH AWARDS**
+* Aug, 2020: Fan is awarded **MICCAI 2020 NIH AWARDS** from MICCAI!
 * Jun, 2020. We have a paper accepted to **Brain Connectivity** in collaboration with UT Southwestern.
 * July, 2020. We have a paper accepted to **TPAMI** in collaboration with UW-Madison.
 * May, 2020. We have a paper accepted to **MICCAI** 2020. Congrats Fan!
