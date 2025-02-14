@@ -23,14 +23,14 @@ author_profile: true
 
 Alumni
 ----
-* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS@GSAI, 2025) - Researcher at Samsung Research
-* Hyeonmin Kim (Undergraduate@CSE, 2025) - AI Team Head, Mediwhale
-* Yubin Han (MS@GSAI, 2024) - Manager at Hyundai Motors Group
-* Sooyeon Jeon (MS@GSAI, 2024)
-* [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD@UTA, 2024) - Senior Data Scientist at Sam's Club / Walmart Research
-* Ellen Jieun Oh (MS@POSTECH, 2023) – Researcher at LG CTO
-* Injun Choi (MS@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
-* Fan Yang (PhD@UTA, 2022) – Researcher at GenenTech
-* Vivek Patel (Undergraduate@UTA with Honors College, 2020) – Software Developer at US Bank
-* Debapriya Benergee (MS@UTA, 2020) – Data Scientist at Master Card
-* Anna Philips (MS@UTA, 2019) – Software Engineer at Amazon (previously Software Developter at MatMaCorp)
+* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI@POSTECH, 2025) - Researcher at Samsung Research
+* Hyeonmin Kim (Undergraduate in CSE@POSTECH, 2025) - AI Team Head, Mediwhale
+* Yubin Han (MS in GSAI, 2024) - Manager at Hyundai Motors Group
+* Sooyeon Jeon (MS in GSAI, 2024)
+* [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD in CSE@UTA, 2024) - Senior Data Scientist at Sam's Club / Walmart Research
+* Ellen Jieun Oh (MS in GSAI@POSTECH, 2023) – Researcher at LG CTO
+* Injun Choi (MS in GSAI@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
+* Fan Yang (PhD in CSE@UTA, 2022) – Researcher at GenenTech
+* Vivek Patel (Undergraduate in CSE@UTA with Honors College, 2020) – Software Developer at US Bank
+* Debapriya Benergee (MS in CSE@UTA, 2020) – Data Scientist at Master Card
+* Anna Philips (MS in CSE@UTA, 2019) – Software Engineer at Amazon (previously Software Developter at MatMaCorp)
