@@ -24,7 +24,7 @@ author_profile: true
 Alumni
 ----
 * [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS@GSAI, 2025) - Researcher at Samsung Research
-* Hyeonmin Kim (Undergraduate@CSE) - AI Team Head, Mediwhale
+* Hyeonmin Kim (Undergraduate@CSE, 2025) - AI Team Head, Mediwhale
 * Yubin Han (MS@GSAI, 2024) - Manager at Hyundai Motors Group
 * Sooyeon Jeon (MS@GSAI, 2024)
 * [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD@UTA, 2024) - Senior Data Scientist at Sam's Club / Walmart Research
