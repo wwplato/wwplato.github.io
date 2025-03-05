@@ -8,9 +8,13 @@ author_profile: true
 2025
 ------
 
+Inho Kim, Youngkil Song, Jicheol Park, **Won Hwa Kim**, Suha Kwak, "Improving Sound Source Localization with Joint Slot Attention on Image and Audio", 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR**), Nashville, 2025
+
 Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies", *International Conference on Learning Representations* (**ICLR**), 2025. [**Spootlight: ~5.1%**]
 
 Minjae Jeong\*, Yechan Hwang\*, Jaejin Lee, Sungyoon Jung, **Won Hwa Kim**, "HGM^3: Hierarchical Generative Masked Motion Modeling with Hard Token Mining", *International Conference on Learning Representations* (**ICLR**), 2025. [\*: equal contribution]
+
 
 2024
 ------
