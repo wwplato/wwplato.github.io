@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Mar, 2025. 1 paper accepted to **CVPR** in collaboration with Dr. Kwak at POSTECH. 
 * Feb, 2025. Hyuna's **ICLR** paper was selected for **Spotlight** presentation (**top ~5.1%**). 
 * Jan, 2025. 2 papers accepted to **ICLR** 2025! What a great start of 2025. Congratulations to Minjae (Tid), Yechan, Hyuna and all other co-authers!.
 * Dec, 2024. Hyuna Cho received **Best Paper Award** from POSTECH-AI BK21.
