@@ -26,7 +26,7 @@ Alumni
 * [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI@POSTECH, 2025) - Researcher at Samsung Research
 * Hyeonmin Kim (Undergraduate in CSE@POSTECH, 2025) - AI Team Head, Mediwhale
 * Yubin Han (MS in GSAI@POSTECH, 2024) - Manager at Hyundai Motors Group
-* Sooyeon Jeon (MS in GSAI@POSTECH, 2024)
+* Sooyeon Jeon (MS in GSAI@POSTECH, 2024) - Software Developer, LG CNS (AI Center)
 * [Xin Ma](https://xma24.github.io/xma/ "Xin Ma") (PhD in CSE@UTA, 2024) - Senior Data Scientist at Sam's Club / Walmart Research
 * Ellen Jieun Oh (MS in GSAI@POSTECH, 2023) – Researcher at LG CTO
 * Injun Choi (MS in GSAI@POSTECH, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
