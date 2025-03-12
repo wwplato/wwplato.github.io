@@ -20,6 +20,8 @@ author_profile: true
 * Hayoung Ahn (MS@GSAI, joint program with KT)
 * Soojin Hwang (MS@GSAI)
 * Jaejin Lee (MS@GSAI)
+* Hoseok Lee (MS/PhD@GSAI) 
+* Jihwan Park (MS/PhD@GSAI)
 
 Alumni
 ----
