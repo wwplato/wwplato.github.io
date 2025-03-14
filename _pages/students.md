@@ -10,7 +10,7 @@ author_profile: true
 * [Jaeyoon Sim](https://jaeyoonssim.github.io "Jaeyoon Sim") (MS/PhD@GSAI)
 * [Joonhyuk Park](https://pjh1023.github.io/ "Joonhyuk Park") (MS/PhD@CSE)
 * Minjae Jeong (MS/PhD@GSAI)
-* [Yechan Hwang](* https://yechan99.github.io "Yechan Hwang")  (MS/PhD@CSE)
+* [Yechan Hwang](https://yechan99.github.io "Yechan Hwang")  (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@GSAI)
 * Sungwoo Hur (PhD@GSAI)
 * Minjae Lee (MS/PHD@CSE)
