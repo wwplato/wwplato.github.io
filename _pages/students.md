@@ -11,7 +11,7 @@ author_profile: true
 * [Joonhyuk Park](https://pjh1023.github.io/ "Joonhyuk Park") (MS/PhD@CSE)
 * Minjae Jeong (MS/PhD@GSAI)
 * [Yechan Hwang](https://yechan99.github.io "Yechan Hwang")  (MS/PhD@CSE)
-* Sehyoung Cheong (MS/PhD@GSAI)
+* Sehyoung Cheong (MS/PhD@CSE)
 * Sungwoo Hur (PhD@GSAI)
 * Minjae Lee (MS/PHD@CSE)
 * Donghyun Lee (MS@GSAI)
