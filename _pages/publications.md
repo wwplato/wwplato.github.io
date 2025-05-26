@@ -8,7 +8,7 @@ author_profile: true
 2025
 ------
 
-Seunghun Baek, Jaejin Lee, **Won Hwa Kim**, "MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
+Seunghun Baek, Jaejin Lee, Jaeyoon Sim, Minjae Jung, **Won Hwa Kim**, "MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
 
 Hyuna Cho, Hayoung Ahn, Guorong Wu, **Won Hwa Kim**, "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer's Disease Conversion Prediction", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
 
