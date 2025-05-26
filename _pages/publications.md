@@ -8,6 +8,11 @@ author_profile: true
 2025
 ------
 
+Seunghun Baek, Jaejin Lee, **Won Hwa Kim**, "MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
+
+Hyuna Cho, Hayoung Ahn, Guorong Wu, **Won Hwa Kim**, "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer's Disease Conversion Prediction", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
+
+
 Inho Kim, Youngkil Song, Jicheol Park, **Won Hwa Kim**, Suha Kwak, "Improving Sound Source Localization with Joint Slot Attention on Image and Audio", 
 *Computer Vision and Pattern Recognition* (**CVPR**), 2025
 
