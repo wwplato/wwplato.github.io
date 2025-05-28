@@ -33,7 +33,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 Recent News
 -----
 * May, 2025. I have been awarded a **NRF Basic Research Lab (BRL, 기초연구실)** as a PI (with Dr. Lee and Lyu from POSTECH and Dr. Ahn from KAIST)! [!$1,100,000]
-* May, 2025. I am participating in *Research Group for Next-Generation Strategies in Brain Glymphatic and Neural Regulation* [~$185000]
+* May, 2025. I am participating in *Research Group for Next-Generation Strategies in Brain Glymphatic and Neural Regulation* [\~$185000]
 * May, 2025. 2 papers **provisionally accepted** to **MICCAI** 2025 from our group (top ~9%)! We will get more accepted after rebuttal. 
 * Mar, 2025. 1 paper accepted to **CVPR** in collaboration with Dr. Kwak at POSTECH. 
 * Feb, 2025. Hyuna's **ICLR** paper was selected for **Spotlight** presentation (**top ~5.1%**). 
