@@ -22,8 +22,7 @@ Contact
 
 Notes for Prospective Students and Post-docs
 -----
-**Post-doc** position is open. 
-I am always looking for highly **self-motivated** students long term goals. 
+**Post-doc** position is open! I am always looking for highly **self-motivated** students long term goals as well. 
 * I usually take 1-2 graduate students per semester, and I usually advise 2-3 undergraduate students per semester. 
 * I can freely hire students from both Graduate School of Artificial Intelligence (GSAI) and Computer Science and Engineering (CSE). Hiring students from Medical Science and Engineering (MED) will depend on the funding situation. 
 <!-- I do not hire summer or winter interns as I make several (business) trips during those times.   -->
