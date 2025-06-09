@@ -23,16 +23,14 @@ Contact
 Notes for Prospective Students
 -----
 I am always looking for highly **self-motivated** students with long term goals.  
-* I usually take 1-2 students per semester. 
+* I usually take 1-2 graduate students per semester, and I usually advise 2-3 undergraduate students per semester. 
 * I can freely hire students from both Graduate School of Artificial Intelligence (GSAI) and Computer Science and Engineering (CSE). Hiring students from Medical Science and Engineering (MED) will depend on the funding situation. 
-* If you are already at POSTECH and want to work on independent research (CSED 399/499), please email me directly. I usually advise 2-3 undergraduate students per semester. 
-* I do not hire research interns. Please email me if you have questions regarding our group. 
 <!-- I do not hire summer or winter interns as I make several (business) trips during those times.   -->
 
 
 Recent News
 -----
-* May, 2025. I have been awarded a **NRF Basic Research Lab (BRL, 기초연구실)** as a PI (with Dr. Lee and Lyu from POSTECH and Dr. Ahn from KAIST)! [~$1,100,000]
+* May, 2025. I have been awarded **NRF Basic Research Lab (BRL, 기초연구실)** as a PI (with Dr. Lee and Dr. Lyu from POSTECH and Dr. Ahn from KAIST)! [~$1,100,000]
 * May, 2025. I am participating in *Research Group for Next-Generation Strategies in Brain Glymphatic and Neural Regulation* with KIOM. [~$18,500,000]
 * May, 2025. 2 papers **provisionally accepted** to **MICCAI** 2025 from our group (top ~9%)! We will get more accepted after rebuttal. 
 * Mar, 2025. 1 paper accepted to **CVPR** in collaboration with Dr. Kwak at POSTECH. 
