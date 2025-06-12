@@ -25,7 +25,7 @@ Alumni
 ----
 * Donghyun Lee (MS in GSAI) - Samsung MX
 * Sungyoon Jung (MS in CSE) - Samsung MX
-* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI@POSTECH, 2025) - Researcher at Samsung Research
+* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI, 2025) - Researcher at Samsung Research
 * Hyeonmin Kim (Undergraduate in CSE, 2025) - AI Team Head, Mediwhale
 * Yubin Han (MS in GSAI, 2024) - Manager at Hyundai Motors Group
 * Sooyeon Jeon (MS in GSAI, 2024) - Software Developer, LG CNS (AI Center)
