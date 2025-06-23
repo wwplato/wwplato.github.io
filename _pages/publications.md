@@ -20,7 +20,7 @@ Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, "MindLink: Subject-agnostic Cross-
 
 Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion Model using Ordinal Regression for Longitudinal Neurodegenerative Data Generation", *Alzheimer’s Association International Conference* (AAIC), 2025.
 
-Sehyung Cheong, Hoseok Lee, **Won Hwa Kim**, "Survey on Sampling Conditioned Brain Images and Imaging Measures with Generative Models", Biomedical Engineering Letters (BMEL), 2025
+Sehyung Cheong, Hoseok Lee, **Won Hwa Kim**, "Survey on Sampling Conditioned Brain Images and Imaging Measures with Generative Models", Biomedical Engineering Letters (BMEL), 2025.
 
 Inho Kim, Youngkil Song, Jicheol Park, **Won Hwa Kim**, Suha Kwak, "Improving Sound Source Localization with Joint Slot Attention on Image and Audio", *Computer Vision and Pattern Recognition* (**CVPR**), 2025
 
