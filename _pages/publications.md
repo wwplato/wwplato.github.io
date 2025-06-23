@@ -12,6 +12,11 @@ Seunghun Baek, Jaejin Lee, Jaeyoon Sim, Minjae Jung, **Won Hwa Kim**, "MNM: Mult
 
 Hyuna Cho, Hayoung Ahn, Guorong Wu, **Won Hwa Kim**, "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer's Disease Conversion Prediction", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
 
+Joonhyuk Park, Donghyun Lee, Guorong Wu, **Won Hwa Kim**, "Conditional Graph Diffusion with Topological Constraints for Brain Network Generation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
+
+Wooseok Jung\*, Joonhyuk Park\*, **Won Hwa Kim**, "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer's Disease Precision Medicine", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.  [\*: equal contribution]
+
+Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, "MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
 
 Inho Kim, Youngkil Song, Jicheol Park, **Won Hwa Kim**, Suha Kwak, "Improving Sound Source Localization with Joint Slot Attention on Image and Audio", 
 *Computer Vision and Pattern Recognition* (**CVPR**), 2025
