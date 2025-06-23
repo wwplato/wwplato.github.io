@@ -29,9 +29,9 @@ Notes for Prospective Students and Post-docs
 <!-- I do not hire summer or winter interns as I make several (business) trips during those times.   -->
 
 
-
 Recent News
 -----
+* Jun, 2025. 5 papers in total accepted to **MICCAI** 2025 from our group. Congratulation!
 * May, 2025. I have been awarded **NRF Basic Research Lab (BRL, 기초연구실)** as a PI (with Dr. Lee and Dr. Lyu from POSTECH and Dr. Ahn from KAIST)! [~$1,100,000]
 * May, 2025. I am participating in *Research Group for Next-Generation Strategies in Brain Glymphatic and Neural Regulation* with KIOM. [~$18,500,000]
 * May, 2025. 2 papers **provisionally accepted** to **MICCAI** 2025 from our group (top ~9%)! We will get more accepted after rebuttal. 
