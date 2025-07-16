@@ -47,6 +47,7 @@ Professional Experience
 Honors
 -----
 
+* Best Editor Award, *ICT Express*, 2025
 * Outstanding Paper Award (Bronze), IPIU, 2024
 * Samsung Humantech Paper Award (Bronze), Samsung 2023
 * 3 Outstanding Paper Awards (Silver, Bronze, Encouragement), IPIU, 2023
