@@ -18,6 +18,10 @@ Wooseok Jung\*, Joonhyuk Park\*, **Won Hwa Kim**, "DISCLOSE the Neurodegeneratio
 
 Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, "MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
 
+Soojin Hwang, Jaeyoon Sim, **Won Hwa Kim**, "REMix: Refinement-Enhanced Visual-Textual Mixing for Lesion Segmentation", *MICCAI Workshop on Emerging LLM/LMM Applications in Medical Imaging* (ELAMI), 2025.
+
+Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, "MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
+
 Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion Model using Ordinal Regression for Longitudinal Neurodegenerative Data Generation", *Alzheimer’s Association International Conference* (AAIC), 2025.
 
 Sehyung Cheong, Hoseok Lee, **Won Hwa Kim**, "Survey on Sampling Conditioned Brain Images and Imaging Measures with Generative Models", Biomedical Engineering Letters (BMEL), 2025.
