@@ -22,8 +22,8 @@ Contact
 
 Notes for Prospective Students and Post-docs
 -----
-**Post-doc** position is open! I am always looking for highly **self-motivated** students long term goals as well. 
-* I am looking for a post-doc to work on ML/CV problems for geometric neuroimages (e.g., 3D mesh and brain network). 
+I am always looking for highly **self-motivated** students with long term goals. 
+<!--* I am looking for a post-doc to work on ML/CV problems for geometric neuroimages (e.g., 3D mesh and brain network). -->
 * I usually take 1-2 graduate students per semester, and I usually advise 2-3 undergraduate students per semester. 
 * I can freely hire students from both Graduate School of Artificial Intelligence (GSAI) and Computer Science and Engineering (CSE). Hiring students from Medical Science and Engineering (MED) will depend on the funding situation. 
 <!-- I do not hire summer or winter interns as I make several (business) trips during those times.   -->
@@ -31,6 +31,7 @@ Notes for Prospective Students and Post-docs
 
 Recent News
 -----
+* Jul, 2025. Wooseok and Junhyuk's paper "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine" has been selected for **Oral Presentation (top ~2.2%)** for MICCAI 2025. Congratulation!
 * Jul, 2025. My students Soojin and Hayoung won Excellence Award (우수상) and Encouragement Award (장려상) respectively from KSIIM Conference. Congrats!
 * Jul, 2025. I was awarded the **Best Editor Award** by *ICT Express*.
 * Jun, 2025. 5 papers in total accepted to **MICCAI** 2025 from our group. Congratulation!
