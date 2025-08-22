@@ -14,7 +14,7 @@ Hyuna Cho, Hayoung Ahn, Guorong Wu, **Won Hwa Kim**, "Adaptive Adversarial Data 
 
 Joonhyuk Park, Donghyun Lee, Guorong Wu, **Won Hwa Kim**, "Conditional Graph Diffusion with Topological Constraints for Brain Network Generation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
 
-Wooseok Jung\*, Joonhyuk Park\*, **Won Hwa Kim**, "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer's Disease Precision Medicine", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.  [\*: equal contribution]
+Wooseok Jung\*, Joonhyuk Park\*, **Won Hwa Kim**, "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer's Disease Precision Medicine", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.  [\*: equal contribution, **Oral presentation: 76/3447 = ~2.2%**]
 
 Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, "MindLink: Subject-agnostic Cross-Subject Brain Decoding Framework", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025.
 
