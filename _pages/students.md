@@ -30,7 +30,7 @@ Alumni
 * Yubin Han (MS in GSAI, 2024) - Manager, Hyundai Motors Group
 * Sooyeon Jeon (MS in GSAI, 2024) - AI Researcher, LG CNS (AI Center)
 * Ellen Jieun Oh (MS in GSAI, 2023) – Researcher, LG CTO
-* Injun Choi (MS in GSAI, 2023) – AI Research Engineer, Samsung MX
+* Injun Choi (MS in GSAI, 2023) – AI Research Engineer, Samsung MX (previously AI Researcher, RIST)
   <!--AI Researcher, POSCO Research Institute of Industrial Science & Technology (RIST)-->
 
 Alumni (UTA)
