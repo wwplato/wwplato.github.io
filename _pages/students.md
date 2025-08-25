@@ -25,12 +25,13 @@ Alumni
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc at POSTECH / (to-be) Post-doc in NIH
 * Donghyun Lee (MS in GSAI, 2025) - AI Research Engineer, Samsung MX
 * Sungyoon Jung (MS in CSE, 2025) - AI Research Engineer, Samsung MX
-* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI, 2025) - AI R&D Engineer at Samsung Research
+* [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI, 2025) - AI R&D Engineer, Samsung Research
 * Hyeonmin Kim (Undergraduate in CSE, 2025) - AI Team Head, Mediwhale
-* Yubin Han (MS in GSAI, 2024) - Manager at Hyundai Motors Group
+* Yubin Han (MS in GSAI, 2024) - Manager, Hyundai Motors Group
 * Sooyeon Jeon (MS in GSAI, 2024) - AI Researcher, LG CNS (AI Center)
-* Ellen Jieun Oh (MS in GSAI, 2023) – Researcher at LG CTO
-* Injun Choi (MS in GSAI, 2023) – AI Researcher at POSCO Research Institute of Industrial Science & Technology (RIST)
+* Ellen Jieun Oh (MS in GSAI, 2023) – Researcher, LG CTO
+* Injun Choi (MS in GSAI, 2023) – AI Research Engineer, Samsung MX
+  <!--AI Researcher, POSCO Research Institute of Industrial Science & Technology (RIST)-->
 
 Alumni (UTA)
 ----
