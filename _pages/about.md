@@ -31,6 +31,8 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Aug, 2025. I was honored with the **Excellence Award** at the SK Hynix Excellent Invention Awards.”
+* I was awarded the **Excellent Invention Award** (우수상) by SK Hynix with the patent . 
 * Jul, 2025. Wooseok and Junhyuk's paper "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine" has been selected for **Oral Presentation (top ~2.2%)** for MICCAI 2025. Congratulation!
 * Jul, 2025. My students Soojin and Hayoung won Excellence Award (우수상) and Encouragement Award (장려상) respectively from KSIIM Conference. Congrats!
 * Jul, 2025. I was awarded the **Best Editor Award** by *ICT Express*.
