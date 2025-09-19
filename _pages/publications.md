@@ -8,6 +8,10 @@ author_profile: true
 2025
 ------
 
+Joonhyuk Park, Donghyun Lee, Yujee Song, Guorong Wu, **Won Hwa Kim**, "Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
+
+Tingting Dan, Xinwei Huang, **Won Hwa Kim**, Guorong Wu, "Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
+
 Seunghun Baek, Jaejin Lee, Jaeyoon Sim, Minjae Jung, **Won Hwa Kim**, "MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
 
 Hyuna Cho, Hayoung Ahn, Guorong Wu, **Won Hwa Kim**, "Adaptive Adversarial Data Augmentation with Trajectory Constraint for Alzheimer's Disease Conversion Prediction", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2025. [**Provisional accept: ~9%**]
