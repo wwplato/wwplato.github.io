@@ -32,7 +32,8 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Oct, 2025. I am giving a **keynote speech** at Workshop on GRaphs in biomedicAl Image anaLysis (**GRAIL**) in MICCAI 2025. 
+* Sep, 2025. 2 papers accepted to **NeurIPS**. Congratulations to Joonhyuk (POSTECH), Tingting (UNC) and all co-authors!
+* Sep, 2025. I am giving a **keynote speech** at Workshop on GRaphs in biomedicAl Image anaLysis (**GRAIL**) in MICCAI 2025. 
 * Sep, 2025. I was honored with the **Excellence Award** at the SK Hynix Excellent Invention Awards.
 * Jul, 2025. Wooseok and Junhyuk's paper "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine" has been selected for **Oral Presentation (top ~2.2%)** for MICCAI 2025. Congratulation!
 * Jul, 2025. My students Soojin and Hayoung won Excellence Award (우수상) and Encouragement Award (장려상) respectively from KSIIM Conference. Congrats!
