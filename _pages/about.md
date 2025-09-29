@@ -35,6 +35,7 @@ Recent News
 -----
 * Sep, 2025. I served as **Communication Chair** for **MICCAI 2025**. The conference was a huge success. 
 * Sep, 2025. 2 papers accepted to **NeurIPS**. Congratulations to Joonhyuk (POSTECH), Tingting (UNC) and all co-authors!
+* Sep, 2025. Hayoung Ahn won the **Best Paper Award** from **GRAIL** in MICCAI 2025!!! 
 * Sep, 2025. I am giving a **keynote speech** at Workshop on GRaphs in biomedicAl Image anaLysis (**GRAIL**) in MICCAI 2025. 
 * Sep, 2025. I was honored with the **Excellence Award** at the SK Hynix Excellent Invention Awards.
 * Jul, 2025. Wooseok and Junhyuk's paper "DISCLOSE the Neurodegeneration Dynamics: Individualized ODE Discovery for Alzheimer’s Disease Precision Medicine" has been selected for **Oral Presentation (top ~2.2%)** for MICCAI 2025. Congratulation!
