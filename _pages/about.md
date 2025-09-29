@@ -33,6 +33,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Sep, 2025. I served as **Communication Chair** for **MICCAI 2025**. The conference was a huge success. 
 * Sep, 2025. 2 papers accepted to **NeurIPS**. Congratulations to Joonhyuk (POSTECH), Tingting (UNC) and all co-authors!
 * Sep, 2025. I am giving a **keynote speech** at Workshop on GRaphs in biomedicAl Image anaLysis (**GRAIL**) in MICCAI 2025. 
 * Sep, 2025. I was honored with the **Excellence Award** at the SK Hynix Excellent Invention Awards.
