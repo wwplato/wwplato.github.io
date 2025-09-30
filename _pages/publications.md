@@ -26,7 +26,7 @@ Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, "MindLink: Subject-agnostic Cross-
 
 Soojin Hwang, Jaeyoon Sim, **Won Hwa Kim**, "REMix: Refinement-Enhanced Visual-Textual Mixing for Lesion Segmentation", *MICCAI Workshop on Emerging LLM/LMM Applications in Medical Imaging* (ELAMI), 2025.
 
-Hayoung Ahn, Seungjoo Lee, Jaeyoon Sim, Yechan Hwang, Hyuna Cho, Guorong Wu, **Won Hwa Kim**, "Spectral Graph Autoregressive Modeling for Conditional Brain Network Augmentation", *MICCAI Workshop on GRaphs in biomedicAl Image anaLysis* (GRAIL), 2025.
+Hayoung Ahn, Seungjoo Lee, Jaeyoon Sim, Yechan Hwang, Hyuna Cho, Guorong Wu, **Won Hwa Kim**, "Spectral Graph Autoregressive Modeling for Conditional Brain Network Augmentation", *MICCAI Workshop on GRaphs in biomedicAl Image anaLysis* (GRAIL), 2025. [**Best Paper Award**]
 
 Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, **Won Hwa Kim**, "Conditional Diffusion Model using Ordinal Regression for Longitudinal Neurodegenerative Data Generation", *Alzheimer’s Association International Conference* (AAIC), 2025.
 
