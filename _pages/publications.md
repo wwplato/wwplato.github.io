@@ -8,6 +8,8 @@ author_profile: true
 2025
 ------
 
+Dougho Park, Jinmi Kim, Da Woon Kim, Donghyun Lee, Taeyeon Kim, Dahyeon Koo, Youjin Lee, **Won Hwa Kim**, Hyo Jin Kim, "Dietary Patterns Associated with the New Onset of Chronic Kidney Disease Using Clustering Algorithm", *Scientific Reports*, 2025.
+
 Joonhyuk Park, Donghyun Lee, Yujee Song, Guorong Wu, **Won Hwa Kim**, "Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
 
 Tingting Dan, Xinwei Huang, **Won Hwa Kim**, Guorong Wu, "Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
