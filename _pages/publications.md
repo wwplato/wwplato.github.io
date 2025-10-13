@@ -243,7 +243,7 @@ A. Pasha Hosseinbor, **Won Hwa Kim**, Nagesh Adluru, Amit Acharya, Houri K. Vorp
 ------
 **Won Hwa Kim**, Jeong Woo Park, Woo Hyun Kim, Wong Hyong Lee, Myung Jin Chung, “Proposal of 2D Mood Model for Human-like Behaviors of Robot”, *The Journal of Korea Robotics Society*, 2010.
 
-**Won Hwa Kim**, Jeong Woo Park, Won Hyong Lee, Woo Hyun Kim, Myung Jin Chung, ” Stochastic Approach on a Simplified OCC Model for Uncertainty and Believability”, *International Conference on Computational Intelligence in Robotics and Automation* (CIRA), 2009. 
+**Won Hwa Kim**, Jeong Woo Park, Won Hyong Lee, Woo Hyun Kim, Myung Jin Chung, "Stochastic Approach on a Simplified OCC Model for Uncertainty and Believability”, *International Conference on Computational Intelligence in Robotics and Automation* (CIRA), 2009. 
 
 Jeongwoo Park, **Won Hwa Kim**, Wong Hyong Lee, Myung Jin Chung, “A Robot Simulator’FRESi’for Dynamic Facial Expression”, *International Conference on Ubiquitous Robots and Ambient Intelligence* (URAI), 2009.
 
