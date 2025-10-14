@@ -24,7 +24,7 @@ Notes for Prospective Students and Post-docs
 -----
 I am always looking for highly **self-motivated** students with long term goals. 
 <!--* I am looking for a post-doc to work on ML/CV problems for geometric neuroimages (e.g., 3D mesh and brain network). -->
-* We currently have several opennings for undergraduate interns and MS/PhD students.
+* We currently have several opennings for MS and PhD students. 
 * I usually take 2-3 graduate students per semester, and I usually advise 2 undergraduate students per semester. 
 * I can freely hire students from both Graduate School of Artificial Intelligence (GSAI) and Computer Science and Engineering (CSE). Hiring students from Medical Science and Engineering (MED) will depend on the funding situation. 
 <!-- I do not hire summer or winter interns as I make several (business) trips during those times.   -->
