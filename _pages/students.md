@@ -1,10 +1,16 @@
 ---
 layout: archive
-title: "Students"
+title: "Members"
 permalink: /students/
 author_profile: true
 ---
 
+Alumni
+----
+* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) 
+  
+Students
+----
 * [Seunghun Baek](https://habaek4.github.io/ "Seunghun Baek") (MS/PhD@GSAI)
 * [Jaeyoon Sim](https://jaeyoonssim.github.io "Jaeyoon Sim") (MS/PhD@GSAI)
 * [Joonhyuk Park](https://pjh1023.github.io/ "Joonhyuk Park") (MS/PhD@CSE)
