@@ -8,6 +8,8 @@ author_profile: true
 2025
 ------
 
+George R. Nahass, Zhu Wang, Homa Rashidisabet, **Won Hwa Kim**, Sasha Hubschman, Jeffrey C. Peterson, Pete Setabutr, Chad A. Purnell, Ann Tran, Darvin Yi, Sathya N. Ravi, "Targeted Unlearning Using Perturbed Sign Gradient Methods With Applications On Medical Images", *Transactions on Machine Learning Research* (**TMLR**), 2025.
+
 Dougho Park, Jinmi Kim, Da Woon Kim, Donghyun Lee, Taeyeon Kim, Dahyeon Koo, Youjin Lee, **Won Hwa Kim**, Hyo Jin Kim, "Dietary Patterns Associated with the New Onset of Chronic Kidney Disease Using Clustering Algorithm", *Scientific Reports*, 2025.
 
 Joonhyuk Park, Donghyun Lee, Yujee Song, Guorong Wu, **Won Hwa Kim**, "Topology-aware Graph Diffusion Model with Persistent Homology", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
