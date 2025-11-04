@@ -32,7 +32,9 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Oct, 2025. Our MIP Lab has been selected as **Outstanding Healthy Lab** (Excellence Award) by POSTECH Human Rights Center. 
+* Nov, 2025. 1 paper with Dr. Sathya Ravi (UIC) is finally accepted to **TMLR**. 
+* Oct, 2025. Our MIP Lab has been selected as **Outstanding Healthy Lab** (Excellence Award) by POSTECH Human Rights Center.
+* Sep, 2025. 1 paper with Dr. Hyo Jin Kim (Korea University Guro Hospital) and Dr. Jinmi Kim (Pusan National University Hospital) is accepted to **Scientific Reports**. 
 * Sep, 2025. I served as **Communication Chair** for **MICCAI 2025**. The conference was a huge success. 
 * Sep, 2025. 2 papers accepted to **NeurIPS**. Congratulations to Joonhyuk (POSTECH), Tingting (UNC) and all co-authors!
 * Sep, 2025. Hayoung Ahn won the **Best Paper Award** from **GRAIL** in MICCAI 2025!!! 
