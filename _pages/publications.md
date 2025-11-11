@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+2026
+------
+
+Soojin Hwang, Jaeyoon Sim, **Won Hwa Kim**, "HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation", Winter Conference on Applications of Computer Vision (**WACV**), 2026
+
 2025
 ------
 
