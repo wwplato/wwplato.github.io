@@ -9,7 +9,7 @@ author_profile: true
 2026
 ------
 
-Soojin Hwang, Jaeyoon Sim, **Won Hwa Kim**, "HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation", Winter Conference on Applications of Computer Vision (**WACV**), 2026
+Soojin Hwang\*, Jaeyoon Sim\*, **Won Hwa Kim**, "HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation", Winter Conference on Applications of Computer Vision (**WACV**), 2026 [\*: equal contribution]
 
 2025
 ------
@@ -18,7 +18,7 @@ George R. Nahass, Zhu Wang, Homa Rashidisabet, **Won Hwa Kim**, Sasha Hubschman,
 
 Dougho Park, Jinmi Kim, Da Woon Kim, Donghyun Lee, Taeyeon Kim, Dahyeon Koo, Youjin Lee, **Won Hwa Kim**, Hyo Jin Kim, "Dietary Patterns Associated with the New Onset of Chronic Kidney Disease Using Clustering Algorithm", *Scientific Reports*, 2025.
 
-Joonhyuk Park, Donghyun Lee, Yujee Song, Guorong Wu, **Won Hwa Kim**, "Topology-aware Graph Diffusion Model with Persistent Homology", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
+Joonhyuk Park\*, Donghyun Lee\*, Yujee Song, Guorong Wu, **Won Hwa Kim**, "Topology-aware Graph Diffusion Model with Persistent Homology", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025. [\*: equal contribution]
 
 Tingting Dan, Xinwei Huang, **Won Hwa Kim**, Guorong Wu, "Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2025.
 
