@@ -17,7 +17,6 @@ Students
 * [Minjae Jeong](https://minjaetidtid.github.io/ "Tidtid") (MS/PhD@GSAI)
 * [Yechan Hwang](https://yechan99.github.io "Yechan Hwang")  (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@CSE)
-* Sungwoo Hur (PhD@GSAI)
 * Minjae Lee (MS/PHD@CSE)
 * Seungjoo Lee (MS@CSE)
 * Hayoung Ahn (MS@GSAI, joint program with KT)
