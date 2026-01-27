@@ -32,6 +32,9 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Jan, 2026. Yechan and Minjae win **Bronze Prize** from Samsung HumanTech Paper Award! (with large $$$ prize)
+* Dec, 2025. Minjae was awarded **Postechian Fellowship**. Congrats!
+* Nov, 2025. 1 paper accetped **WACV**. Contrats Soojin and Jaeyoon!
 * Nov, 2025. 1 paper with Dr. Sathya Ravi (UIC) is finally accepted to **TMLR**. 
 * Oct, 2025. Our MIP Lab has been selected as **Outstanding Healthy Lab** (2nd place, Excellence Award) by POSTECH Human Rights Center.
 * Sep, 2025. 1 paper with Dr. Hyo Jin Kim (Korea University Guro Hospital) and Dr. Jinmi Kim (Pusan National University Hospital) is accepted to **Scientific Reports**. 
