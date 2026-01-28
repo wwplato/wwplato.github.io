@@ -9,6 +9,8 @@ author_profile: true
 2026
 ------
 
+Sourav Pal, Viet Luong, Hoseok Lee, Tingting Dan, Guorong Wu, Richard Davidson, **Won Hwa Kim**, Vikas Singh, "MnemoDyn: Learning Resting State Dynamics from 40K fMRI sequences", International Conference on Representation Learning (**ICLR**)
+
 Soojin Hwang\*, Jaeyoon Sim\*, **Won Hwa Kim**, "HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation", Winter Conference on Applications of Computer Vision (**WACV**), 2026 [\*: equal contribution]
 
 2025
