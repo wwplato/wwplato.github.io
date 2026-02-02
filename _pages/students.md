@@ -7,7 +7,7 @@ author_profile: true
 
 Post-doc
 ----
-* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) 
+* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") 
   
 Students
 ----
@@ -19,14 +19,14 @@ Students
 * Sehyoung Cheong (MS/PhD@CSE)
 * Minjae Lee (MS/PHD@CSE)
 * Seungjoo Lee (MS@CSE)
-* Hayoung Ahn (MS@GSAI, joint program with KT)
-* Soojin Hwang (MS@GSAI)
 * Jaejin Lee (MS@GSAI)
 * Hoseok Lee (MS/PhD@CSE) 
 * Jihwan Park (MS/PhD@GSAI)
 
 Alumni
 ----
+* Hayoung Ahn (MS in GSAI, joint program with KT)
+* Soojin Hwang (MS in GSAI)
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc at POSTECH / (to-be) Post-doc in NIH
 * Donghyun Lee (MS in GSAI, 2025) - AI Research Engineer, Samsung MX
 * Sungyoon Jung (MS in CSE, 2025) - AI Research Engineer, Samsung MX
