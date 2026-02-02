@@ -25,9 +25,9 @@ Students
 
 Alumni
 ----
-* Hayoung Ahn (MS in GSAI, joint program with KT)
+* Hayoung Ahn (MS in GSAI) - Researcher, KT
 * Soojin Hwang (MS in GSAI)
-* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc at POSTECH / (to-be) Post-doc in NIH
+* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc Researcher, NIH
 * Donghyun Lee (MS in GSAI, 2025) - AI Research Engineer, Samsung MX
 * Sungyoon Jung (MS in CSE, 2025) - AI Research Engineer, Samsung MX
 * [Yujee Song](https://jardindelsol.github.io "Yujee Song") (MS in GSAI, 2025) - AI R&D Engineer, Samsung Research
