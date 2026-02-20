@@ -5,9 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-Post-doc
-----
-* [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") 
   
 Students
 ----
