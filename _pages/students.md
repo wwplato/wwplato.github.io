@@ -18,15 +18,17 @@ Students
 * [Yechan Hwang](https://yechan99.github.io "Yechan Hwang")  (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@CSE)
 * Minjae Lee (MS/PHD@CSE)
-* Hayoung Ahn (MS@GSAI, KT joint program)
-* Soojin Hwang (MS@GSAI)
 * Seungjoo Lee (MS@CSE)
 * Jaejin Lee (MS@GSAI)
 * Hoseok Lee (MS/PhD@CSE) 
 * Jihwan Park (MS/PhD@GSAI)
+* Sunkyung Moon (MS/PhD@GSAI)
+* Hyunjun Cho (MS@GSAI)
 
 Alumni
 ----
+* Hayoung Ahn (MS in GSAI, 2026) - Researcher, KT
+* Soojin Hwang (MS in GSAI, 2026)
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc Researcher, NIH
 * Donghyun Lee (MS in GSAI, 2025) - AI Research Engineer, Samsung MX
 * Sungyoon Jung (MS in CSE, 2025) - AI Research Engineer, Samsung MX
