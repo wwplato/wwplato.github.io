@@ -8,7 +8,7 @@ author_profile: true
 
 2026
 ------
-Jaejin Lee*, Minjae Jeong*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, **Won Hwa Kim**, "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting", *Computer Vision and Pattern Recognition* (**CVPR**), 2026
+Jaejin Lee*, Minjae Jeong*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, **Won Hwa Kim**, "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting", *Computer Vision and Pattern Recognition* (**CVPR**), 2026 [*: equal contribution]
 
 Minjae Lee, Sungwoo Hur, Soojin Hwang, Won Hwa Kim, **Won Hwa Kim**, "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation", *Computer Vision and Pattern Recognition* (**CVPR**), 2026
 
