@@ -32,7 +32,8 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Feb, 2026. 1 paper accepted to **MIDL** with Ayush at University of Buffalo. 
+* Feb, 2026. 2 papers accepted to **CVPR**. Congrats to Both Minjae and Jaejin!
+* Feb, 2026. 1 paper accepted to **MIDL** with Vishnu at University of Buffalo. 
 * Jan, 2026. Yechan and Minjae (TID) won **Samsung Humantech Outstanding Paper Award** (Bronze). Congrats!!!
 * Jan, 2026. 2 **Outstanding Paper Awards** from IPIU 2026! Congrats to Jaejin (Silver) and Seunghun (Bronze)!
 * Jan, 2026. 1 paper accepted to **ICLR** with UW-Madison. Congrats Sourav!
