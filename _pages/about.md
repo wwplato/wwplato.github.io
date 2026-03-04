@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Mar, 2026. I have been awarded **NRF Core Research Grant (Merit Research Program, 핵심연구(도약형))** for Physics Informed Graph Neural Network research as the sole PI for the next 3 years. [~$800,000]
 * Feb, 2026. 2 papers accepted to **CVPR**. Congrats to the two Minjaes (Minjae Lee and Tid) and Jaejin!
 * Feb, 2026. 1 paper accepted to **MIDL** with Vishnu at University of Buffalo. 
 * Jan, 2026. 2 **Outstanding Paper Awards** from IPIU 2026! Congrats to Jaejin (Silver) and Seunghun (Bronze)!
