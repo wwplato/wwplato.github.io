@@ -269,6 +269,12 @@ Woo Hyun Kim, Jeongwoo Park, Wong Hyong Lee, **Won Hwa Kim**, Myung Jin Chung, �
 Publications (Domestic)
 =====
 
+Jaejin Lee, Minjae Jeong, Joonhyuk Park, Yechan Hwang, Seunghun Baek, **Won Hwa Kim**, "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting", *Workshop on Image Processing and Image Understanding* (IPIU), 2026. [**Oral Presentation / Silver Award**]
+
+Seunghun Baek, Jihwan Park, Jaeyoon Sim, Minjae Jung, Hoseok Lee, **Won Hwa Kim**, "Improving Multimodal Robustness by Modeling Task Deficiency", *Workshop on Image Processing and Image Understanding* (IPIU), 2026.
+
+Sehyung Jung, Hyuna Cho, Hoseok Lee, **Won Hwa Kim**, "SRAIT: Selective Retrieval-Augmented Image Translation for Multi-Modal and Efficient Cross-Domain Generation", *Workshop on Image Processing and Image Understanding* (IPIU), 2026.
+
 Sungyoon Jung, Donghyun Lee, **Won Hwa Kim**, “Subject-agnostic Cross-Subject Brain Decoding Framework: Enhancing Scalability and Efficiency”, *Workshop on Image Processing and Image Understanding* (IPIU), 2024.
 
 Minjae Lee*, Sungwoo Hur*, Soojin Hwang, **Won Hwa Kim**, “ReGRAF : Training Free Prompt Refinement Via Gradient Flow For Segmentation”, *Workshop on Image Processing and Image Understanding* (IPIU), 2024. [\*: equal contribution, **Outstanding Poster Award**]
