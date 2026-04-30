@@ -17,8 +17,8 @@ Students
 * [Minjae Lee](https://postech-minjaelee.github.io/ "Minjae Lee") (MS/PHD@CSE)
 * Seungjoo Lee (MS@CSE)
 * Jaejin Lee (MS@GSAI)
-* Hoseok Lee (MS/PhD@CSE) 
-* Jihwan Park (MS/PhD@GSAI)
+* Hoseok Lee (MS/PhD@CSE)
+* [Jihwan Park](https://atlas-sky.github.io/ "Jihwan Park") (MS/PHD@GSAI)
 * Sunkyung Moon (MS/PhD@GSAI)
 * Hyunjun Cho (MS@GSAI)
 
