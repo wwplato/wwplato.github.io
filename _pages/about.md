@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* May, 2026. 2 papers accepted to **ICML**. Congrats to Jaeyoon (POSTECH), Junhyoung (SNU), and all the co-authors!
 * Apr, 2026. Minjae's paper "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation" has been selected for an **Oral Presentation** at **CVPR** 2026!
 * Mar, 2026. I have been awarded **NRF Core Research Grant (Merit Research Program, 핵심연구(도약형))** for Physics Informed Graph Neural Network research as the sole PI for the next 3 years. [~$800,000]
 * Feb, 2026. 2 papers accepted to **CVPR**. Congrats to the two Minjaes (Minjae Lee and Tid) and Jaejin!
