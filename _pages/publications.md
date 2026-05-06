@@ -8,6 +8,11 @@ author_profile: true
 
 2026
 ------
+
+Jaeyoon Sim, Soojin Hwang, Seunghun Baek, Guorong Wu, **Won Hwa Kim**, "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", *International Conference on Machine Learning* (**ICML**), 2026 
+
+Junhyoung Chung, Euijong Song, **Won Hwa Kim**, Gunwoong Park, "Convex Distance Operator Transport: Convex and Geometry-Preserving Information", *International Conference on Machine Learning* (**ICML**), 2026 
+
 Jaejin Lee\*, Minjae Jeong\*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, **Won Hwa Kim**, "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting", *Computer Vision and Pattern Recognition* (**CVPR**), 2026 [*: equal contribution]
 
 Minjae Lee\*, Sungwoo Hur\*, Soojin Hwang, **Won Hwa Kim**, "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation", *Computer Vision and Pattern Recognition* (**CVPR**), 2026 [*: equal contribution]
