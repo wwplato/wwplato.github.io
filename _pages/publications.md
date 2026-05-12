@@ -9,6 +9,12 @@ author_profile: true
 2026
 ------
 
+정민재 이승주 이재진
+
+Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
+
+Minjae Jung\*, Hayley Seungjoo Lee\*, Jaejin Lee, **Won Hwa Kim**, "GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
+
 Jaeyoon Sim, Soojin Hwang, Seunghun Baek, Guorong Wu, **Won Hwa Kim**, "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", *International Conference on Machine Learning* (**ICML**), 2026 
 
 Junhyoung Chung, Euijong Song, **Won Hwa Kim**, Gunwoong Park, "Convex Distance Operator Transport: Convex and Geometry-Preserving Information", *International Conference on Machine Learning* (**ICML**), 2026 
