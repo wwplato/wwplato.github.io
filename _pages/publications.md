@@ -9,8 +9,6 @@ author_profile: true
 2026
 ------
 
-정민재 이승주 이재진
-
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
 
 Seungjoo Lee\*, Minjae Jung\*, Jaejin Lee, **Won Hwa Kim**, "GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
