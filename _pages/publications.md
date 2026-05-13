@@ -11,7 +11,7 @@ author_profile: true
 
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
 
-Seungjoo Lee\*, Minjae Jung\*, Jaejin Lee, **Won Hwa Kim**, "GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
+Minjae Jung\*, Seungjoo Lee\*, Jaejin Lee, **Won Hwa Kim**, "Learning Robust Medical Image Segmentation under Mixed-Quality Annotation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**]
 
 Jaeyoon Sim, Soojin Hwang, Seunghun Baek, Guorong Wu, **Won Hwa Kim**, "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", *International Conference on Machine Learning* (**ICML**), 2026 
 
