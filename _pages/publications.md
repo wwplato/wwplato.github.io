@@ -9,25 +9,25 @@ author_profile: true
 2026
 ------
 
-Tingting Dan, Zhixuan Zhou, **Won Hwa Kim Kim**, Guorong Wu, "A Variational Mean-Field Control Framework for Graph Representation Learning", *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026
+Tingting Dan, Zhixuan Zhou, **Won Hwa Kim Kim**, Guorong Wu, "A Variational Mean-Field Control Framework for Graph Representation Learning", *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026.
 
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
 
 Minjae Jung\*, Seungjoo Lee\*, Jaejin Lee, **Won Hwa Kim**, "Learning Robust Medical Image Segmentation under Mixed-Quality Annotation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
 
-Jaeyoon Sim, Soojin Hwang, Seunghun Baek, Guorong Wu, **Won Hwa Kim**, "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", *International Conference on Machine Learning* (**ICML**), 2026 
+Jaeyoon Sim, Soojin Hwang, Seunghun Baek, Guorong Wu, **Won Hwa Kim**, "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", *International Conference on Machine Learning* (**ICML**), 2026. 
 
-Junhyoung Chung, Euijong Song, **Won Hwa Kim**, Gunwoong Park, "Convex Distance Operator Transport: Convex and Geometry-Preserving Information", *International Conference on Machine Learning* (**ICML**), 2026 
+Junhyoung Chung, Euijong Song, **Won Hwa Kim**, Gunwoong Park, "Convex Distance Operator Transport: Convex and Geometry-Preserving Information", *International Conference on Machine Learning* (**ICML**), 2026.
 
-Jaejin Lee\*, Minjae Jeong\*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, **Won Hwa Kim**, "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting", *Computer Vision and Pattern Recognition* (**CVPR**), 2026 [*: equal contribution]
+Jaejin Lee\*, Minjae Jeong\*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, **Won Hwa Kim**, "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting", *Computer Vision and Pattern Recognition* (**CVPR**), 2026. [*: equal contribution]
 
-Minjae Lee\*, Sungwoo Hur\*, Soojin Hwang, **Won Hwa Kim**, "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation", *Computer Vision and Pattern Recognition* (**CVPR**), 2026 [**Oral Presentation**, *: equal contribution]
+Minjae Lee\*, Sungwoo Hur\*, Soojin Hwang, **Won Hwa Kim**, "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation", *Computer Vision and Pattern Recognition* (**CVPR**), 2026. [**Oral Presentation**, *: equal contribution]
 
-Ayush Roy, Samin Enam, Jun Xia, **Won Hwa Kim**, Vishnu Suresh Lokhande, "Is Exchangeability better than I.I.D. to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation?", *Medical Imaging with Deep Learning* (**MIDL**), 2026
+Ayush Roy, Samin Enam, Jun Xia, **Won Hwa Kim**, Vishnu Suresh Lokhande, "Is Exchangeability better than I.I.D. to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation?", *Medical Imaging with Deep Learning* (**MIDL**), 2026.
 
-Sourav Pal, Viet Luong, Hoseok Lee, Tingting Dan, Guorong Wu, Richard Davidson, **Won Hwa Kim**, Vikas Singh, "MnemoDyn: Learning Resting State Dynamics from 40K fMRI sequences", *International Conference on Representation Learning* (**ICLR**), 2026
+Sourav Pal, Viet Luong, Hoseok Lee, Tingting Dan, Guorong Wu, Richard Davidson, **Won Hwa Kim**, Vikas Singh, "MnemoDyn: Learning Resting State Dynamics from 40K fMRI sequences", *International Conference on Representation Learning* (**ICLR**), 2026.
 
-Soojin Hwang\*, Jaeyoon Sim\*, **Won Hwa Kim**, "HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation", *Winter Conference on Applications of Computer Vision* (**WACV**), 2026 [\*: equal contribution]
+Soojin Hwang\*, Jaeyoon Sim\*, **Won Hwa Kim**, "HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation", *Winter Conference on Applications of Computer Vision* (**WACV**), 2026. [\*: equal contribution]
 
 2025
 ------
