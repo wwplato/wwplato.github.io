@@ -9,6 +9,8 @@ author_profile: true
 2026
 ------
 
+Tingting Dan, Zhixuan Zhou, **Won Hwa Kim Kim**, Guorong Wu, "A Variational Mean-Field Control Framework for Graph Representation Learning", *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026
+
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
 
 Minjae Jung\*, Seungjoo Lee\*, Jaejin Lee, **Won Hwa Kim**, "Learning Robust Medical Image Segmentation under Mixed-Quality Annotation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
