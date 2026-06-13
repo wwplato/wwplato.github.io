@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Jun, 2026. 7 papers accepted to **MICCAI** 2026. See you in Strasbourg!
 * May, 2026. 2 papers have been provisionally accepted to **MICCAI**. Congrats to Hoseok, Jaeyoon, Minjae (tid) and Seungjoo! We expect to see more papers accepted after the rebuttal. 
 * May, 2026. 2 papers accepted to **ICML**. Congrats to Jaeyoon (POSTECH), Junhyoung (SNU), and all the co-authors!
 * Apr, 2026. Minjae's paper "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation" has been selected for an **Oral Presentation** at **CVPR** 2026!
