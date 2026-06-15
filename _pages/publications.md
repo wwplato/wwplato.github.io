@@ -9,11 +9,25 @@ author_profile: true
 2026
 ------
 
-Tingting Dan, Zhixuan Zhou, **Won Hwa Kim Kim**, Guorong Wu, "A Variational Mean-Field Control Framework for Graph Representation Learning", *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026.
 
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
 
 Minjae Jung\*, Seungjoo Lee\*, Jaejin Lee, **Won Hwa Kim**, "Learning Robust Medical Image Segmentation under Mixed-Quality Annotation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
+
+Yujee Song\*, Seunghun Baek\*, Guorong Wu, **Won Hwa Kim**, "ENC-ODE: Event-level Neurodegenerative Modeling in Continuous Time with Neural ODEs", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [*: equal contribution]
+
+Minjae Jeong\*, Jaejin Lee\*, Yechan Hwang, **Won Hwa Kim**, "SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [*: equal contribution]
+
+Seunghun Baek\*, Jihwan Park\*, Jaeyoon Sim, Hoseok Lee, Jihwan Park, Seungjoo Lee, **Won Hwa Kim**, "Set-Inclusive Uncertainty Modeling for Robust Brain Tumor Segmentation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [*: equal contribution]
+
+Junho Choi, Mingyu Joo, Jiwon Son, **Won Hwa Kim**, Ilwoo Lyu, "SPHARM-Mamba: Rotation-Invariant Multiscale Modeling for Brain Age Prediction", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026.
+
+Minhee Lee, Sangyoon Lee, Jiwook Lee, Minki Hong, Kyuyoung Kim, **Won Hwa Kim**, Jaeho Lee, "Multi-frame Restoration for High-rate Lissajous Confocal Laser Endomicroscopy", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026.
+
+
+
+
+Tingting Dan, Zhixuan Zhou, **Won Hwa Kim Kim**, Guorong Wu, "A Variational Mean-Field Control Framework for Graph Representation Learning", *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026.
 
 Jaeyoon Sim, Soojin Hwang, Seunghun Baek, Guorong Wu, **Won Hwa Kim**, "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", *International Conference on Machine Learning* (**ICML**), 2026. 
 
