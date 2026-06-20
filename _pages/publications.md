@@ -9,6 +9,7 @@ author_profile: true
 2026
 ------
 
+Seunghun Baek, Jihwan Park, Jaeyoon Sim, Minjae Jeong, Hoseok Lee, **Won Hwa Kim**, "Residual-Guided Expert Specialization for Incomplete Multimodal Learning", *European Conference on Computer Vision* (**ECCV**), 2026. 
 
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
 
