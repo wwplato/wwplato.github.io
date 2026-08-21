@@ -46,7 +46,14 @@ Professional Experience
 
 Honors
 -----
-
+* 2 Outstanding Paper Awards (Silver and Bronze), IPIU, 2026
+* Best Paper Award (with Nvidia DGX Spark), MICCAI GRAIL Workshop, 2025
+* Outstanding Healthy Laboratory (Excellence Award, 2nd place), POSTECH Human Right Center, 2025
+* Samsung Humantech Paper Award (Bronze), Samsung, 2025
+* Excellent Invention Award (Excellence Award), SK Hynix, 2025
+* Outstanding Poster Award, IPIU, 2025
+* Top-10 Healthy Laboratory (Encouragement Award, 8th place), POSTECH Human Right Center, 2024
+* First Place Award, UWF4DR Challenge in MICCAI, 2024
 * Best Editor Award, *ICT Express*, 2025
 * Outstanding Paper Award (Bronze), IPIU, 2024
 * Samsung Humantech Paper Award (Bronze), Samsung 2023
@@ -66,7 +73,7 @@ Service
 -----
 * Editor, ICT Express
 * Associate Editor, Pattern Recognition
-* I routinely serve as a Area Chair/Reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and many others.
+* I routinely serve as an Area Chair/Reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and many others.
 
 Teaching
 -----
