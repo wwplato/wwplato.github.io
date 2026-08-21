@@ -32,7 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Aug, 2026, I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. [~$8M/6yrs]
+* Aug, 2026, I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI** [~$8M/6yrs]. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. 
 * Jun, 2026, 1 paper accepted to **ECCV** 2026. Congrats to Seunghun! He got three papers accepted in one week. 
 * Jun, 2026. 7 papers accepted to **MICCAI** 2026. See you in Strasbourg!
 * May, 2026. 2 papers have been provisionally accepted to **MICCAI**. Congrats to Hoseok, Jaeyoon, Minjae (tid) and Seungjoo! We expect to see more papers accepted after the rebuttal. 
@@ -121,4 +121,4 @@ Recent News
 * Aug, 2018. Our proposal with Georgia Tech to C-TEDD is funded by US Department of Transportation (DOT).
 * Jan, 2018. I joined Computer Science and Engineering at the University of Texas at Arlington as an Assistant Professor. 
 * Sep, 2017. I joined Data Science Team at NEC Labs., America as a Researcher. 
-* May, 2017. I became a Ph.D. 
+* May, 2017. I am now a Ph.D. 
