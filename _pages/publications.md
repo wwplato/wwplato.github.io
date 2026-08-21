@@ -9,6 +9,8 @@ author_profile: true
 2026
 ------
 
+
+
 Seunghun Baek, Jihwan Park, Jaeyoon Sim, Minjae Jeong, Hoseok Lee, **Won Hwa Kim**, "Residual-Guided Expert Specialization for Incomplete Multimodal Learning", *European Conference on Computer Vision* (**ECCV**), 2026. 
 
 Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
@@ -26,7 +28,7 @@ Junho Choi, Mingyu Joo, Jiwon Son, **Won Hwa Kim**, Ilwoo Lyu, "SPHARM-Mamba: Ro
 Minhee Lee, Sangyoon Lee, Jiwook Lee, Minki Hong, Kyuyoung Kim, **Won Hwa Kim**, Jaeho Lee, "Multi-frame Restoration for High-rate Lissajous Confocal Laser Endomicroscopy", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026.
 
 
-
+Ayush Roy, **Won Hwa Kim Kim**, Robert Zivadinov, Vishnu Lokhande, "Scanner-aware Causal Harmonization Of Adni Mri For AlzheimerʼS Disease Detection", *Alzheimer’s Association International Conference* (AAIC), 2026.
 
 Tingting Dan, Zhixuan Zhou, **Won Hwa Kim Kim**, Guorong Wu, "A Variational Mean-Field Control Framework for Graph Representation Learning", *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2026.
 
