@@ -65,7 +65,8 @@ Honors
 Service
 -----
 * Editor, ICT Express
-* I routinely serve as a reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and others.
+* Associate Editor, Pattern Recognition
+* I routinely serve as a Area Chair/Reviewer for MICCAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI, IJCAI, WACV, ACCV and many others.
 
 Teaching
 -----
