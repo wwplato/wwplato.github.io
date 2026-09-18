@@ -15,8 +15,8 @@ Students
 * [Yechan Hwang](https://yechan99.github.io "Yechan Hwang") (MS/PhD@CSE)
 * Sehyoung Cheong (MS/PhD@CSE)
 * [Minjae Lee](https://postech-minjaelee.github.io/ "Minjae Lee") (MS/PHD@CSE)
-* Seungjoo Lee (MS@CSE)
-* Jaejin Lee (MS@GSAI)
+* Seungjoo Lee (PhD@GSAI)
+* Jaejin Lee (MS/PhD@GSAI)
 * Hoseok Lee (MS/PhD@CSE)
 * [Jihwan Park](https://atlas-sky.github.io/ "Jihwan Park") (MS/PHD@GSAI)
 * Sunkyung Moon (MS/PhD@GSAI)
@@ -24,6 +24,7 @@ Students
 
 Alumni
 ----
+* Seungjoo Lee (MS@CSE) - PhD student in Graduate School of AI, POSTECH
 * Hayoung Ahn (MS in GSAI, 2026) - Researcher, KT
 * Soojin Hwang (MS in GSAI, 2026)
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc Researcher, NIH
