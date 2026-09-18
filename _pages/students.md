@@ -21,6 +21,7 @@ Students
 * [Jihwan Park](https://atlas-sky.github.io/ "Jihwan Park") (MS/PHD@GSAI)
 * Sunkyung Moon (MS/PhD@GSAI)
 * Hyunjun Cho (MS@GSAI)
+* Changhee Hong (MS/PhD@GSAI)
 
 Alumni
 ----
