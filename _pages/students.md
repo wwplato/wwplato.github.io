@@ -27,9 +27,9 @@ Students
 
 Alumni
 ----
-* Seungjoo Lee (MS@CSE) - PhD student in Graduate School of AI, POSTECH
+* Seungjoo Lee (MS in CSE) - PhD student in Graduate School of AI, POSTECH
 * Hayoung Ahn (MS in GSAI, 2026) - Researcher, KT
-* Soojin Hwang (MS in GSAI, 2026)
+* Soojin Hwang (MS in GSAI, 2026) - AI Engineer, Korean Air
 * [Hyuna Cho](http://sites.google.com/view/hyunacho "Hyuna Cho") (PhD in GSAI, 2025) - Post-doc Researcher, NIH
 * Donghyun Lee (MS in GSAI, 2025) - AI Research Engineer, Samsung MX
 * Sungyoon Jung (MS in CSE, 2025) - AI Research Engineer, Samsung MX
