@@ -32,9 +32,10 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
-* Aug, 2026, I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. [~$8M/6yrs]
-* Aug, 2026, 1 paper accepted to **EMNLP Findings** with Samsung DS. 
-* Jun, 2026, 1 paper accepted to **ECCV** 2026. Congrats to Seunghun! He got three papers accepted in one week. 
+* Sep, 2026. 1 paper acceptednto **NeurIPS** in collaboration with Vishnu at Buffalo. 
+* Aug, 2026. I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. [~$8M/6yrs]
+* Aug, 2026. 1 paper accepted to **EMNLP Findings** with Samsung DS. 
+* Jun, 2026. 1 paper accepted to **ECCV** 2026. Congrats to Seunghun! He got three papers accepted in one week. 
 * Jun, 2026. 7 papers accepted to **MICCAI** 2026. See you in Strasbourg!
 * May, 2026. 2 papers have been provisionally accepted to **MICCAI**. Congrats to Hoseok, Jaeyoon, Minjae (tid) and Seungjoo! We expect to see more papers accepted after the rebuttal. 
 * May, 2026. 2 papers accepted to **ICML**. Congrats to Jaeyoon (POSTECH), Junhyoung (SNU), and all the co-authors!
