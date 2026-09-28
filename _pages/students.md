@@ -22,6 +22,8 @@ Students
 * Sunkyung Moon (MS/PhD@GSAI)
 * Hyunjun Cho (MS@GSAI)
 * Changhee Hong (MS/PhD@GSAI)
+* Ekaterina Antipushina (Visiting Student@GSAI) --- PhD student at Skoltech
+
 
 Alumni
 ----
