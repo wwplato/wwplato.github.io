@@ -54,7 +54,7 @@ Honors
 * Outstanding Poster Award, IPIU, 2025
 * Top-10 Healthy Laboratory (Encouragement Award, 8th place), POSTECH Human Right Center, 2024
 * First Place Award, UWF4DR Challenge in MICCAI, 2024
-* Best Editor Award, *ICT Express*, 2025
+* Best Editor Award, ICT Express, 2025
 * Outstanding Paper Award (Bronze), IPIU, 2024
 * Samsung Humantech Paper Award (Bronze), Samsung 2023
 * 3 Outstanding Paper Awards (Silver, Bronze, Encouragement), IPIU, 2023
