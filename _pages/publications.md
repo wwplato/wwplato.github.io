@@ -11,7 +11,7 @@ author_profile: true
 
 Protyay Dey, Ayush Roy, Hyuna Cho, **Won Hwa Kim**, Vishnu Suresh Lokhande, "MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation", *Annual Conference on Neural Information Processing Systems* (**NeurIPS**), 2026.
 
-Serim Ryou, Jayeon Yoo, Minjae Jeong, **Won Hwa Kim**, Seong-Jin Park, "ChipLayoutBench: A Multimodal Benchmark for Vision-Language Models in Semiconductor Layout Understanding", *European Conference on Computer Vision* (**EMNLP Findings**), 2026. 
+Serim Ryou, Jayeon Yoo, Minjae Jeong, **Won Hwa Kim**, Seong-Jin Park, "ChipLayoutBench: A Multimodal Benchmark for Vision-Language Models in Semiconductor Layout Understanding", *Empirical Methods in Natural Language Processing* (**EMNLP Findings**), 2026. 
 
 Seunghun Baek, Jihwan Park, Jaeyoon Sim, Minjae Jeong, Hoseok Lee, **Won Hwa Kim**, "Residual-Guided Expert Specialization for Incomplete Multimodal Learning", *European Conference on Computer Vision* (**ECCV**), 2026. 
 
