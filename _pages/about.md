@@ -32,6 +32,8 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+우수 건강한 연구실
+* Oct, 2026. The MIP Lab (my group) has been selected as the **Healthy Lab (Best Award / 최우수상)** by POSTECH Human Right Center. 
 * Sep, 2026. 1 paper acceptednto **NeurIPS** in collaboration with Vishnu at Buffalo. 
 * Aug, 2026. I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. [~$8M/6yrs]
 * Aug, 2026. 1 paper accepted to **EMNLP Findings** with Samsung DS. 
