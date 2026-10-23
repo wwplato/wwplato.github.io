@@ -23,7 +23,7 @@ Yujee Song\*, Seunghun Baek\*, Guorong Wu, **Won Hwa Kim**, "ENC-ODE: Event-leve
 
 Minjae Jeong\*, Jaejin Lee\*, Yechan Hwang, **Won Hwa Kim**, "SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [*: equal contribution]
 
-Seunghun Baek\*, Jihwan Park\*, Jaeyoon Sim, Hoseok Lee, Jihwan Park, Seungjoo Lee, **Won Hwa Kim**, "Set-Inclusive Uncertainty Modeling for Robust Brain Tumor Segmentation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [*: equal contribution]
+Seunghun Baek\*, Jihwan Park\*, Jaeyoon Sim, Hoseok Lee, Seungjoo Lee, **Won Hwa Kim**, "Set-Inclusive Uncertainty Modeling for Robust Brain Tumor Segmentation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [*: equal contribution]
 
 Junho Choi, Mingyu Joo, Jiwon Son, **Won Hwa Kim**, Ilwoo Lyu, "SPHARM-Mamba: Rotation-Invariant Multiscale Modeling for Brain Age Prediction", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026.
 
