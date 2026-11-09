@@ -34,7 +34,7 @@ Recent News
 -----
 * Oct, 2026. The MIP Lab (my group) has been selected as the **Healthy Lab (Best Award / 최우수상)** by POSTECH Human Right Center (#1 out of 120 labs!). 
 * Sep, 2026. 1 paper accepted to **NeurIPS** in collaboration with Vishnu at Buffalo. 
-* Aug, 2026. I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. [~$8M/6yrs]
+* Aug, 2026. I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. [**~$8M(110억)/6yrs**]
 * Aug, 2026. 1 paper accepted to **EMNLP Findings** with Samsung DS. 
 * Jun, 2026. 1 paper accepted to **ECCV** 2026. Congrats to Seunghun! He got three papers accepted in one week. 
 * Jun, 2026. 7 papers accepted to **MICCAI** 2026. See you in Strasbourg!
