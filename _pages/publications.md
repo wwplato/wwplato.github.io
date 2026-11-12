@@ -15,7 +15,7 @@ Serim Ryou, Jayeon Yoo, Minjae Jeong, **Won Hwa Kim**, Seong-Jin Park, "ChipLayo
 
 Seunghun Baek, Jihwan Park, Jaeyoon Sim, Minjae Jeong, Hoseok Lee, **Won Hwa Kim**, "Residual-Guided Expert Specialization for Incomplete Multimodal Learning", *European Conference on Computer Vision* (**ECCV**), 2026. 
 
-Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
+Jaeyoon Sim\*, Hoseok Lee\*, Jihwan Park, Seunghun Baek, Yu Zhang, **Won Hwa Kim**, "Spectral-Temporal State Space Modeling on Functional Brain Networks", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, **Spotlight: ~4.63%**: equal contribution]
 
 Minjae Jung\*, Seungjoo Lee\*, Jaejin Lee, **Won Hwa Kim**, "Learning Robust Medical Image Segmentation under Mixed-Quality Annotation", *Medical Image Computing and Computer Assisted Intervention* (**MICCAI**), 2026. [**Provisional accept: ~9%**, *: equal contribution]
 
