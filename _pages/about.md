@@ -32,6 +32,7 @@ I am always looking for highly **self-motivated** students with long term goals.
 
 Recent News
 -----
+* Nov, 2026. I am appointed as **Mueunjae Endowed Chair Professor** by POSTECH! It is a great honor and I really appreciate everyone who helped and supported me throughout all my research career. 
 * Oct, 2026. The MIP Lab (my group) has been selected as the **Healthy Lab (Best Award / 최우수상)** by POSTECH Human Right Center (**#1 out of 120 labs!**). 
 * Sep, 2026. 1 paper accepted to **NeurIPS** in collaboration with Vishnu at Buffalo. 
 * Aug, 2026. I have been awarded **AI Star Fellowship** entitled as *Trustworthy Agentic AI for Medical Image Analysis* as a **PI**. I sincerely appreciate my wonderful teammates in POSETCH and Yeonsei University for their support. [**~$8M(110억)/6yrs**]
